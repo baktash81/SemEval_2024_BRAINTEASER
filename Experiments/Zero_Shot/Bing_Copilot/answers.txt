@@ -1,0 +1,330 @@
+1 : 
+Solution: A : The lazy farmer is his mother.
+Reasoning: The question states that the lazy farmer is not the father of the hardworking farmer, but the hardworking farmer is the son of the lazy farmer. This implies that the lazy farmer is the mother of the hardworking farmer.
+Confidence: 1.0
+
+2 : 
+Solution: C : Romeo and Juliet are fish. The rumble of the train knocked the tank off the shelf, it broke and Romeo and Juliet did not survive.
+Reasoning: The presence of glass shards and water on the floor suggests that a container holding water (like a fish tank) was broken. The only other occupants mentioned in the room are Romeo and Juliet. Therefore, it's reasonable to conclude that Romeo and Juliet are fish, and they died when their tank fell and broke due to the rumble of the train.
+Confidence: 1.0
+
+3 : 
+Solution: C : It happens every year.
+Reasoning: This happens every year on the day before your birthday. On that day, you are technically one year younger than you will be tomorrow, which is your birthday.
+Confidence: 1.0
+
+4 : 
+Solution: B : The captain.
+Reasoning: In most sporting organizations, if an assistant captain departs, the team's captain would continue to serve as the captain. The role of the assistant captain is usually to support the captain and step in when the captain is unavailable. If the assistant captain departs, it does not directly affect the role of the captain.
+Confidence: 1.0
+
+5 : 
+Solution: D : None of above.
+Reasoning: The question is a bit tricky. If you pick 100 names from the city's phone directory, none of them will have unlisted phone numbers. This is because by definition, an unlisted phone number is not included in the phone directory.
+Confidence: 1.0
+
+6 : 
+Solution: A : Although the guards were looking in opposite directions, they were not back to back. They were facing each other.
+Reasoning: The question does not specify that the guards are standing back to back. Therefore, it is possible that they are standing face to face, allowing one guard to see the other's face.
+Confidence: 1.0
+
+7 : 
+Solution: A : A house can not jump.
+Reasoning: The statement was that the dog could jump higher than a house. Houses can't jump, so any jump made by the dog, no matter how small, is higher than a house's jump.
+Confidence: 1.0
+
+8 : 
+Solution: B : Once.
+Reasoning: You can divide 100 by 10 once to get 10. If you divide again, you will get 1, not 10. Therefore, you can only divide 100 by 10 once to get 10.
+Confidence: 1.0
+
+9 : 
+Solution: D : None of above.
+Reasoning: The question states that the police do not have the names of the criminals who are not in prison. Therefore, they cannot identify these individuals and cannot determine how many they can find.
+Confidence: 1.0
+
+10 : 
+Solution: B : It happens every year.
+Reasoning: Christmas (December 25) and New Year's Day (January 1) always fall in the same year, as they are part of the same calendar year.
+Confidence: 1.0
+
+11 : 
+Solution: B : Because roosters don't lay eggs.
+Reasoning: Roosters are male chickens and only female chickens, known as hens, can lay eggs. Therefore, no matter how much the farmer fed the roosters, they would never be able to produce eggs.
+Confidence: 1.0
+
+12 : 
+Solution: A : Since the playground was a football playground and the other players could've not been playing in the playground at the time of the announcement
+Reasoning: The question does not provide information about where the other players were located during the announcement. If the playground was specifically a football playground, it's likely that the other players were not present at the time of the announcement. Therefore, the football player would be the only one who could have gathered a crowd.
+Confidence: 0.8
+
+13 : 
+Solution: C : He was in a coffin the other men were at his funeral.
+Reasoning: The man who stayed dry was not affected by the rain because he was not alive. He was in a coffin, and the other men were at his funeral. This is why he stayed dry while the others got wet in the rain.
+Confidence: 1.0
+
+14 : 
+Solution: A : She was at the zoo.
+Reasoning: If the woman was at a zoo, she would know that the bear is in a controlled environment and cannot harm her. This would explain why she was not afraid and ran towards it excitedly.
+Confidence: 1.0
+
+15 : 
+Solution: B : Two houses were wall-to-wall next to each other
+Reasoning: If the two houses were wall-to-wall next to each other, the distance between them would be negligible. Therefore, it would be possible for the man to jump from one house to the other, winning the bet.
+Confidence: 1.0
+
+16 : 
+Solution: B : The accountant was his sister.
+Reasoning: The accountant can be a sister to the attorney. In this case, the attorney would not have a brother, but a sister. This is why no one is lying.
+Confidence: 1.0
+
+17 : 
+Solution: A : The accountant was his sister.
+Reasoning: The accountant can be a sister to the attorney. In this case, the attorney would not have a brother, but a sister. This is why no one is lying.
+Confidence: 1.0
+
+18 : 
+Solution: C : They are one daughters, one mother and one grandmother.
+Reasoning: The two mothers could be a woman and her mother (so, a mother and a grandmother). The two daughters could be the same woman and her daughter. So, there are actually three people involved: a grandmother, a mother (who is also a daughter), and a daughter. They can divide the $21 equally among themselves, each getting $7.
+Confidence: 1.0
+
+19 : 
+Solution: C : They are all boys.
+Reasoning: The question does not specify that the other half of the children are girls. Therefore, it is possible that all 9 children are boys. In this case, half of them (4.5, rounded to 5) are boys, and the other half (4.5, rounded to 4) are also boys.
+Confidence: 1.0
+
+20 : 
+Solution: A : One and a half hours.
+Reasoning: If you take the first medicine right away, then the second one half an hour later, and the third one another half an hour after that, the total time from the first medicine to the last would be one hour. However, the effect of the last medicine would last for another half an hour, so the total time the medicines keep you going would be one and a half hours.
+Confidence: 1.0
+
+21 : 
+Solution: A : A house can not jump.
+Reasoning: The statement was that the dog could jump higher than a house. Houses can't jump, so any jump made by the dog, no matter how small, is higher than a house's jump.
+Confidence: 1.0
+
+22 : 
+Solution: A : The ground is not wet.
+Reasoning: If the ground was not wet, then even without rubber boots, the student's feet would remain dry after a lengthy stroll around the park.
+Confidence: 1.0
+
+23 : 
+Solution: B : It didn't because rosters don't lay eggs.
+Reasoning: Roosters are male chickens and only female chickens, known as hens, can lay eggs. Therefore, it is not possible for the rooster to lay an egg.
+Confidence: 1.0
+
+24 : 
+Solution: A : James was at the zoo.
+Reasoning: If James was at a zoo, he would be safe from the bears. The bears would be in a controlled environment and would not pose a threat to James.
+Confidence: 1.0
+
+25 : 
+Solution: A : One and a half hours.
+Reasoning: If you take the first pill right away, then the second one half an hour later, and the third one another half an hour after that, the total time from the first pill to the last would be one hour. However, the effect of the last pill would last for another half an hour, so the total time the pills keep you going would be one and a half hours.
+Confidence: 1.0
+
+26:
+Solution: A : Once.
+Reasoning: When you deduct 10 from 100, you get 90. If you try to deduct 10 from 100 again, you're not deducting from 100 anymore, but from 90.
+Confidence: 1.0
+
+27:
+Solution: A : They were triplets.
+Reasoning: The only way for two girls to have the same parents and be born on the same day, yet not be twins, is if they are part of a set of triplets (or quadruplets, etc.).
+Confidence: 1.0
+
+28:
+Solution: C : Romeo and Juliet are fish. The rumble of the train knocked the tank off the shelf, it broke and Romeo and Juliet did not survive.
+Reasoning: The presence of glass and water suggests a broken fish tank. The mention of a nearby railroad track suggests that the vibration from a passing train could have knocked the tank off the shelf.
+Confidence: 1.0
+
+29:
+Solution: A : The coach.
+Reasoning: The vice coach is usually the second-in-command after the coach. If the vice coach is unable to attend a game, the coach would be the one to lead the team.
+Confidence: 1.0
+
+30:
+Solution: C : The mail man was the only male. The doctor and lawyer were females.
+Reasoning: The policeman heard someone scream "No John, not the gun!" Since John is a male name, the killer must be male. The mail man was the only male in the room, so the policeman knew it was him.
+Confidence: 1.0
+
+31:
+Solution: D : None of above. Reasoning: The statement in the question, “old people consume more food than young people,” is not necessarily true. It’s a common misconception. In fact, as people age, their metabolism slows down, and they often require fewer calories. Therefore, options A and B, while they correctly state that older adults may have specific dietary requirements and require increased nutrient intake, they do not justify the premise that older people consume more food. Option C is incorrect because living longer does not equate to consuming more food. Hence, the correct answer is D: None of above. Confidence: 0.9
+
+32: Solution: C : Jack is a fish in the ocean. Reasoning: The question is a play on words. When we hear the name “Jack,” we typically think of a human, but in this case, Jack is a fish. A wave knocked him out of the water (his natural environment), and he could not survive out of water. Confidence: 1.0
+
+33: Solution: C : The fat dog is the mother. Reasoning: The question states that the small dog is the fat dog’s kid, but the fat dog is not the thin dog’s father. This means that the fat dog must be the mother of the small dog. Confidence: 1.0
+
+34: Solution: C : It didn’t because rosters don’t lay eggs. Reasoning: Roosters are male chickens, and only female chickens (hens) lay eggs. Therefore, it’s impossible for the rooster to have laid an egg. Confidence: 1.0
+
+35: Solution: D : None of above. Reasoning: The question is a play on words. The one who didn’t move and stayed completely dry could have been under a shelter or inside a building. None of the provided options A, B, or C explicitly state this. Confidence: 1.0
+
+Question 36: Solution: C : They are one daughter, one mother and one grandmother. Reasoning: The phrase “two mothers and two daughters” can refer to three people - a grandmother, her daughter, and her granddaughter. These three people are two mothers and two daughters. So, they can split $21 equally, each getting $7. Confidence: 1.0
+
+Question 37: Solution: D : None of above. Reasoning: The phone directory only includes listed phone numbers. Therefore, none of the 100 people selected at random from the directory would have unlisted phone numbers. Confidence: 1.0
+
+Question 38: Solution: A : He was in a coffin the other men were at his funeral. Reasoning: The one who remained dry is the one who didn’t flee because he couldn’t. He was in a coffin, and the others were at his funeral. Confidence: 1.0
+
+Question 39: Solution: A : Jack and Tom are the parents themselves. Reasoning: The phrase “Jack, Tom and their parents” can refer to four people - Jack, Tom, and each of their spouses. These four people are two sets of parents. So, they can split $40 equally, each getting $10. Confidence: 1.0
+
+Question 40: Solution: A : Because there are less black sheep in the world than white. Reasoning: The question is a play on words. It doesn’t specify that a single white sheep eats more than a single black sheep. So, if there are more white sheep in the world, then collectively, white sheep would consume more food. Confidence: 0.9
+
+Question 41: Solution: B : She was at the zoo. Reasoning: The woman was not afraid because she was at a zoo, where bears are kept in enclosures. This makes it safe for visitors to observe them from a distance. Confidence: 1.0
+
+Question 42: Solution: B : John said the score would be 0-0 and he was right. “Before” any football game starts, the score is always 0-0. Reasoning: John made a clever prediction that before any game starts, the score is always 0-0. Since this is always true, Tom lost the wager. Confidence: 1.0
+
+Question 43: Solution: A : John said the score would be 0-0 and he was right. “Before” any basketball game starts, the score is always 0-0. Reasoning: Similar to the previous question, John made a clever prediction that before any game starts, the score is always 0-0. Since this is always true, Tom lost the bet. Confidence: 1.0
+
+Question 44: Solution: A : The captain. Reasoning: In a sports team, if the assistant captain resigns, the captain would lead the team. The captain is the primary leader of the team. Confidence: 1.0
+
+Question 45: Solution: C : Once. Reasoning: You can subtract 10 from 100 only once because after the subtraction, 100 becomes 90 and is no longer 100. Confidence: 1.0
+
+Question 46: Solution: C : They are all white. Reasoning: The question does not specify that the other half of the sheep are not white. Therefore, it is possible that all the sheep are white, which would make half of them white. Confidence: 1.0
+
+Question 47: Solution: C : Officer was actually his sister so the whole story makes sense. Reasoning: The officer could be a female (sister), which is why she said she doesn’t have a brother anymore. James also truthfully said he didn’t have a brother because he was arrested by his sister. Confidence: 1.0
+
+Question 48: Solution: C : They are all boys. Reasoning: The question does not specify that the other half of the kids are not males. Therefore, it is possible that all the kids are males, which would make half of them males. Confidence: 1.0
+
+Question 49: Solution: A : They were triplets. Reasoning: The two boys could be part of a set of triplets (or larger). This would mean they have the same parents, live in the same house, and were born on the same day, but are not twins. Confidence: 1.0
+
+Question 50: Solution: B : By walking on stilts, the third man elevates his feet above the wet ground. Reasoning: The third man could be walking on stilts, which would keep his feet above the ground and therefore dry, even though he is not wearing rubber boots. Confidence: 0.9
+
+Question 51: Solution: A : John said the score would be 0-0 and he was right. “Before” any football game starts, the score is always 0-0. Reasoning: John made a clever prediction that before any game starts, the score is always 0-0. Since this is always true, Tom lost the bet. Confidence: 1.0
+
+Question 52: Solution: A : The mail man was the only male. The doctor and lawyer were females, so the cop knew that “John” was the mail man. Reasoning: The cop heard someone yell, “No John, not the gun!” and found a doctor, a lawyer, a priest, and a dead corpse on the floor. If the doctor and lawyer were females, and the priest and the dead man were not named John, then the only male left is the mail man. Therefore, the cop knew that “John” was the mail man. Confidence: 0.9
+
+Question 53: Solution: B : Two and a half hours. Reasoning: The driver is told to make a stop every half an hour for five times. So, 0.5 hour/stop * 5 stops = 2.5 hours. Confidence: 1.0
+
+Question 54: Solution: B : The fish tank was like a ring. Reasoning: If the fish tank was circular or ring-shaped, the fishes could swim in opposite directions and still see each other every few minutes as they circled around the tank. Confidence: 1.0
+
+Question 55: Solution: C : Because there are less black sheep in the world than white. Reasoning: The question is a play on words. It doesn’t specify that a single black sheep eats less than a single white sheep. So, if there are more white sheep in the world, then collectively, white sheep would consume more food. Confidence: 0.9
+
+Question 56: Solution: A : They were triplets. Reasoning: The two girls could be part of a set of triplets (or larger). This would mean they have the same parents, look alike, and were born on the same day, but are not identical twins. Confidence: 1.0
+
+Question 57: Solution: B : By walking on stilts, the third man elevates his feet above the wet ground. Reasoning: The third man could be walking on stilts, which would keep his feet above the ground and therefore dry, even though he is not wearing rubber boots. Confidence: 1.0
+
+Question 58: Solution: B : The fat dog is the mother. Reasoning: The fat dog could be the mother of the thin dog. This would explain why the thin dog is the son of the fat dog, but the fat dog is not the father. Confidence: 1.0
+
+Question 59: Solution: B : Although the guards were looking in opposite directions, they were not back to back. They were facing each other. Reasoning: The guards could be standing in such a way that they are facing each other, even though they are looking in opposite directions. This would allow one guard to see the other’s face and notice the smile. Confidence: 1.0
+
+Question 60: Solution: B : It happens every year. Reasoning: Christmas Day (December 25) and New Year’s Day (January 1) both fall in the same year every year. Confidence: 1.0
+
+Question 61: Solution: D : None of above. Reasoning: The question is a play on words. “Yellowstone” is a national park, not a color. Therefore, the shirt will not become yellow. Confidence: 1.0
+
+Question 62: Solution: B : The other end is not tied to anything. Reasoning: The question does not specify that the other end of the metal piece is tied to anything. Therefore, the lion can reach the human who is 7m away because it is not restricted by the length of the metal piece. Confidence: 1.0
+
+Question 63: Solution: B : Six. The bed’s four legs, plus your two legs. Reasoning: The question asks for the number of legs on the ground. All the animals mentioned are on the bed or flying above it, so their legs are not on the ground. Only the bed’s four legs and your two legs are on the ground. Confidence: 1.0
+
+Question 64: Solution: B : She fell back into her apartment, jumping from the balcony into the inside. Reasoning: The question states that the woman appears to be about to jump off the balcony, but it does not specify that she jumps outside. Therefore, it is possible that she jumped back into her apartment, which would not result in a fall of 20 stories. Confidence: 1.0
+
+Question 65: Solution: B : A barber. Reasoning: A barber can shave other people (clients) three times a day and still maintain their own beard. Confidence: 1.0
+
+Question 66: Solution: C : No problem, because concrete floors are very hard to crack Reasoning: The question is a play on words. It’s not the egg that we’re worried about cracking, it’s the concrete floor. And concrete floors are indeed very hard to crack. Confidence: 1.0
+
+Question 67: Solution: C : The man is blind and is reading braille. Reasoning: The man in the story could be blind and reading a book in Braille. Braille books can be read by touch, so no light is necessary. Confidence: 1.0
+
+Question 68: Solution: B : It was driven over in winter, when the lake was frozen. Reasoning: The tractor could have been driven over to the island in the winter when the lake was frozen solid. This would allow the tractor to be transported without a boat, air transport, or being built on the island. Confidence: 1.0
+
+Question 69: Solution: C : The math teacher, because numbers are the same in French as they are in English. Reasoning: Math is a universal language. Even if the instructions were in French, the mathematical equations or problems would be the same as in English. Confidence: 1.0
+
+Question 70: Solution: A : His horse was called Sunday. Reasoning: The question is a play on words. It’s not that the man returned on the day Sunday, but rather on his horse, which is named Sunday. Confidence: 1.0
+
+Question 71: Solution: A : No problem, because sturdy bricks are very hard to crack Reasoning: The question is a play on words. It’s not the glass ball that we’re worried about cracking, it’s the brick wall. And brick walls are indeed very hard to crack. Confidence: 1.0
+
+Question 72: Solution: A : Lisa is Emily’s daughter. Reasoning: If Lisa is Emily’s daughter, she would be William’s niece (since Emily is William’s sister), but not Emily’s niece. Confidence: 1.0
+
+Question 73: Solution: D : None of above. Reasoning: The question is a play on words. It’s not the cops’ job to put out fires, it’s the firefighters’ job. Confidence: 1.0
+
+Question 74: Solution: C : The math teacher, because numbers are the same in French as they are in English. Reasoning: Math is a universal language. Even if the instructions were in French, the mathematical equations or problems would be the same as in English. Confidence: 1.0
+
+Question 75: Solution: B : He jumped off the ground floor, not from the top of the building. Reasoning: The question does not specify from which floor the man jumped. If he jumped from the ground floor, he wouldn’t get hurt. Confidence: 1.0
+
+Question 76: Solution: C : He was only on the first step. Reasoning: The question does not specify from which step the boy fell. If he fell from the first step, the fall wouldn’t be high enough to cause him harm. Confidence: 1.0
+
+Question 77: Solution: A : The tide makes the boats to float again and the issues get resolved at that time. Reasoning: Tides can cause water levels to rise and fall. When the tide comes in, the water level rises, allowing the boats to float. When the tide goes out, the water level falls, leaving the boats grounded. Confidence: 1.0
+
+Question 78: Solution: B : A publisher. Reasoning: A publisher is involved in the process of producing and distributing books, but they do not write the content of the books. Therefore, it’s possible for a publisher to have “authored” many books without writing a single word. Confidence: 1.0
+
+Question 79: Solution: B : The man is blind and is reading braille. Reasoning: The man in the story could be blind and reading a book in Braille. Braille books can be read by touch, so no light is necessary. Confidence: 1.0
+
+Question 80: Solution: A : The station wasn’t fixed in the marina Reasoning: If the station to which the boat was tied wasn’t fixed, it could have drifted away, taking the boat with it. Confidence: 1.0
+
+Question 81: Solution: B : No problem, because concrete floors are very hard to crack. This is a trick question. The question asks about throwing an egg against a wall, not a floor. So, the condition of the floor doesn’t affect whether the egg breaks or not when thrown against the wall. Hence, you can throw the egg against a hard rock wall without breaking it, as long as it lands on a concrete floor that is very hard to crack.
+
+Question 82: Solution: C : All the people on the boat are in relationships. Reasoning: The question is a play on words. When it says “you don’t see a single person on the boat”, it means there are no single (unmarried or not in a relationship) people on the boat. All the people on the boat are in relationships. Confidence: 1.0
+
+Question 83: Solution: B : White. Reasoning: The color of the shirt will not change just because it is thrown into the Red Sea. The name “Red Sea” does not mean that it can dye things red. So, the white shirt will remain white. Confidence: 1.0
+
+Question 84: Solution: D : None of above. Reasoning: The question does not provide enough information to determine why the office worker visits the two coffee shops at different times of the day. None of the provided options A, B, and C logically explain the office worker’s behavior based on the information given. Confidence: 1.0
+
+Question 85: Solution: D : None of above. Reasoning: The question does not provide enough information to determine why the restaurant said all their tables were booked. None of the provided options A, B, and C logically explain the situation based on the information given. Confidence: 1.0
+
+Question 86: Solution: B : He was only on the first step. Reasoning: The question does not specify where on the ladder the young man was when he fell. If he was only on the first step of the 100-foot ladder when he fell, he would not be harmed. Confidence: 1.0
+
+Question 87: Solution: C : Mary. Reasoning: The question states that Mary’s father has five children and then lists four names: Nana, None, Nine, and Non. The fifth child must be Mary, as stated at the beginning of the question. Confidence: 1.0
+
+Question 88: Solution: D : None of above. Reasoning: The question is a play on words. It asks which room the policemen put out the fire in first. However, it’s the firefighters’ job to put out fires, not the policemen’s. So, none of the options A, B, or C are correct. Confidence: 1.0
+
+Question 89: Solution: B : Six. Reasoning: If the runner ran 70 kilometers in 5 days, and each day he ran two kilometers more than the previous day, we can set up the equation: x + (x+2) + (x+4) + (x+6) + (x+8) = 70. Solving for x gives us x = 6. So, the runner ran six kilometers on the first day. Confidence: 1.0
+
+Question 90: Solution: C : It was driven over in winter, when the lake was frozen. Reasoning: The question states that the tractor was not carried to the island by boat or plane and was not constructed on the island. The only logical explanation left from the options is that the tractor was driven over in winter when the lake was frozen. Confidence: 1.0
+
+Question 91: Solution: A : Two. Reasoning: If the fisherman caught 30 fish in 5 days, and each day he caught three more fish than the day before, we can set up the equation: x + (x+3) + (x+6) + (x+9) + (x+12) = 30. Solving for x gives us x = 2. So, the fisherman caught two fish on the first day. Confidence: 1.0
+
+Question 92: Solution: A : Tony’s nephew is Jack’s son. Reasoning: Tony’s nephew could be Jack’s son. In this case, Jack’s son would be Tony’s nephew but not Jack’s nephew, because a person cannot be their own nephew. Confidence: 1.0
+
+Question 93: Solution: D : None of above. Reasoning: The question is a play on words. When you shoot one bird, the noise will likely scare the other birds away. So, there would be no birds left on the fence. Confidence: 1.0
+
+Question 94: Solution: A : He works there in the restaurant. Reasoning: If the man goes to the restaurant every day and doesn’t pay, it’s possible that he works there. Employees often get free meals as part of their employment benefits. Confidence: 1.0
+
+Question 95: Solution: C : Each daughter shares the same brother. Reasoning: Mrs. Jones has four daughters. Each of her daughters has one brother. This means that all the daughters share the same brother. So, Mrs. Jones only has five children in total: four daughters and one son. Confidence: 1.0
+
+Question 96: Solution: B : Five. Reasoning: The question states that you enter a room with five of the organization’s heads. This means there are five people in the room, each with one head. Therefore, there are five heads in the room. Confidence: 1.0
+
+Question 97: Solution: B : His horse was called Sunday. Reasoning: The man’s horse is named Sunday. So, when it says he left town on Sunday, it means he left town on his horse, Sunday. He spent the night in a motel and then rode back the next day on his horse, Sunday. So, he left on Sunday and returned on Sunday because Sunday is the name of his horse. Confidence: 1.0
+
+Question 98: Solution: C : The stations and his home are on a hill, which allows him to ride down easily on his scooter. Reasoning: The student’s home and the train stations are located on a hill. This allows him to ride downhill easily on his scooter to the first train station in the morning. In the afternoon, he exits at the second train station, which is also downhill from his college, allowing him to ride downhill easily on his scooter. Confidence: 1.0
+
+Question 99: Solution: A : Each player shares the same coach. Reasoning: Each player on the chess team has one coach. However, all the players share the same coach. So, there are five players and one coach, making a total of six participants in the team. Confidence: 1.0
+
+Question 100: Solution: C : Lisa is Emily’s daughter. Reasoning: Lisa is Emily’s daughter. So, Lisa is William’s niece because Emily is William’s sister. However, Lisa is not Emily’s niece because Lisa is Emily’s daughter. Confidence: 1.0
+
+Question 101: Solution: C : The stations and his home are on a hill, which allows him to ride down easily on his scooter. Reasoning: The student’s home and the train stations are located on a hill. This allows him to ride downhill easily on his scooter to the first train station in the morning. In the afternoon, he exits at the second train station, which is also downhill from his college, allowing him to ride downhill easily on his scooter. Confidence: 1.0
+
+Question 102: Solution: D : None of above. Reasoning: Firemen are not authorized to make arrests. That is the job of the police. Confidence: 1.0
+
+Question 103: Solution: A : The other end is not tied to anything. Reasoning: The question does not specify that the other end of the rope is tied to anything. Therefore, the dog can still move freely as long as the rope reaches. Confidence: 1.0
+
+Question 104: Solution: C : Jessica is blind and she can braille. Reasoning: The fact that Jessica reads in complete darkness suggests that she is reading Braille, a system of raised dots that can be felt with the fingertips and used by people who are blind or visually impaired. Confidence: 1.0
+
+Question 105: Solution: C : His horse was called Sunday. Reasoning: The man’s horse is named Sunday. So, he rode out of town on Sunday (the horse) and rode back to town on Sunday (the horse). Confidence: 1.0
+
+Question 106: Solution: C : The pet dog fell back into her apartment, jumping from the balcony into the inside. Reasoning: The question states that the dog fell over the edge but does not specify which direction. It is possible that the dog fell back into the apartment. Confidence: 0.8
+
+Question 107: Solution: D : None of above. Reasoning: The question says “You fire one.” This could mean firing a gun, which would likely scare all the birds away. So, none of the birds would be left on the fence. Confidence: 0.9
+
+Question 108: Solution: B : A preacher. Reasoning: A preacher often conducts wedding ceremonies, thus “marrying” many women, but he himself is not getting married in those instances. Confidence: 1.0
+
+Question 109: Solution: C : Mary. Reasoning: The question states “Mary’s father is the father of five children.” So, Mary is one of the five children. Confidence: 1.0
+
+Question 110: Solution: B : Ana. Reasoning: The question states “Ana’s school has 4 students in Alaska: Maria, James, Jonghyun.” So, Ana is the fourth student. Confidence: 1.0
+
+Question 111: Solution: B : She fell back into her apartment, jumping from the balcony into the inside. Reasoning: The question states “The woman is not hurt more than a cruise.” This suggests that she didn’t fall a long distance. Therefore, it’s possible that she fell back into her apartment. Confidence: 0.8
+
+Question 112: Solution: B : A barber. Reasoning: A barber can shave other people (customers) multiple times a day and still grow his own beard. Confidence: 1.0
+
+Question 113: Solution: B : Tom is a math teacher, numbers are the same in French as they are in English. Reasoning: The question does not specify the subject that Tom teaches. If Tom is a math teacher, it would be possible for the students to complete their assignments even if they were printed in English, as numbers are universal. Confidence: 0.7
+
+Question 114: Solution: C : White. Reasoning: The color of the shirt does not change when it is thrown into the Red Sea. The name “Red Sea” does not mean that everything in it becomes red. Confidence: 1.0
+
+Question 115: Solution: C : All the people on the boat are in relationships. Reasoning: The phrase “not a single person” can be interpreted as “there are no people who are single”. Therefore, if all the people on the boat are in relationships, then there is not a single person on the boat. Confidence: 0.9
+
+Question 116: Solution: B : One. Reasoning: If the fisherman caught one fish on the first day, two on the second day, three on the third day, four on the fourth day, and five on the fifth day, then he would have caught 15 fish in total. However, the question states that he caught three more fish each day than the day before. Therefore, he must have caught one fish on the first day, four on the second day, seven on the third day, ten on the fourth day, and eight on the fifth day, totaling 30 fish. Confidence: 1.0
+
+Question 117: Solution: C : The internet was disconnected so he couldn’t search on google Reasoning: If the internet was disconnected, Bob would not be able to access Google or any other online resources. Therefore, he wouldn’t be able to find anything. Confidence: 1.0
+
+Question 118: Solution: B : A preacher. Reasoning: A preacher often conducts wedding ceremonies, thus “marrying” many women, but he himself is not getting married in those instances. Confidence: 1.0
+
+Question 119: Solution: B : Six. The bed’s four legs, plus your two legs. Reasoning: The question asks for the number of legs on the floor. The animals and birds are on the bed or flying above it, not on the floor. Therefore, only the legs of the bed and your own legs are touching the floor. Confidence: 1.0
+
+Question 120: Solution: C : Each daughter shares the same brother. Reasoning: If Mrs. Jones has four daughters and one son, then each daughter has one brother, and Mrs. Jones has five children in total. Confidence: 1.0
