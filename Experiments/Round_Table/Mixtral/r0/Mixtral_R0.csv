@@ -1,0 +1,436 @@
+,Solution,Reasoning,Confidence
+0,A,"Let us analyze the given information:
+1. There are two farmers: one diligent and the other lazy.
+2. The lazy farmer has a child who turned out to be a hardworking farmer.
+3. It is stated that the lazy farmer isn't the father of the hardworking farmer.
+4. Since they are farmers living together in a household, it suggests a close familial bond.
+
+Considering the language used and avoiding assumptions outside what was directly revealed, the laziest interpretation aligns with answer choice A – the lazy farmer is indeed the mother of the diligent farmer. As long as the genders aren't specified otherwise, assuming either gender role doesn't violate the text. Hence, without further context, selecting A satisfies all conditions while excluding unnecessary speculation.
+
+","With the available data, I am moderately confident (0.7) that my proposed solution accurately represents the intended meaning behind the riddle."
+1,C,"At first glance, it appears that Romeo and Juliet are humans based on popular culture references. But looking closer at the details, specifically ""glass shards and some water,"" leads me to consider if those items might represent something else instead.
+
+If we assume Romeo and Juliet are aquarium pets like goldfish, then ""glass shards and some water"" make more sense as remnants of their broken aquarium. Considering the location near a railroad track adds potential cause for disturbance leading to the accidental breakage of their tank during a passing train.
+
+This explanation fits better with the described circumstances compared to fear induced death or crushing by a bookcase.
+
+","My confidence level is high (0.9). Although slightly surprising, interpreting Romeo and Juliet as pet fish provides a reasonable resolution to the puzzle based on the given elements."
+2,C,"Before your birthday each year, you are always one year younger than you will be after your birthday. For example, if someone has a birthday on December 31st, they would technically turn one year older at midnight when the date changes to January 1st. So, before their actual birthday, they are indeed one year younger than they will be tomorrow.
+
+","I am very confident (1.0) in this answer as the logic holds true consistently throughout the entire year, regardless of whether it is a leap year or not and independent of personal milestones like graduating."
+3,B,"Generally speaking, in sports organizations, the hierarchy consists of a head coach, followed by assistants including an assistant captain, and finally the main or primary captain. If the assistant captain leaves the team, the position remains vacant until filled through promotion or recruitment. Nevertheless, the responsibility of captaining the team does not automatically fall onto another member of the staff like the first officer or second officer. Instead, the duty typically reverts back to the existing captain unless they appoint someone temporarily to fulfill the duties of the assistant captain.
+
+","My confidence level is quite high (0.9) due to familiarity with standard organizational structures across various industries, including sports teams."
+4,C,"We know that 5% of the population has an unlisted phone number. To find out how many people this percentage corresponds to in a sample size of 100, simply multiply the total number of sampled entries by the proportion of unlisted numbers. That is, 100 * .05 = 5.
+
+Therefore, five individuals selected randomly from the city's phone directory should have unlisted phone numbers.
+
+",I am highly confident (0.95) in this solution as it follows basic principles of statistical calculations involving percentages and samples.
+5,A,"The description mentions that the two guards face north and south respectively along the same road. Unless specified otherwise, we assume they stand side by side, rather than back to back. Standing side by side allows each guard to observe the facial expressions and body language of the other, enabling the guard watching north to notice the smile of the guard facing south.
+
+So, although physically positioned to look in different directions, they could still interact visually due to standing next to each other.
+
+","I am relatively confident (0.8) in this solution, given the typical arrangement of sentries and the lack of indicators suggesting anything extraordinary about their positions or abilities."
+6,C,"When comparing the jumping ability of a dog against the height of a house, it may appear absurd for the dog to surpass the building in elevation. However, if the house itself is exceptionally short (tiny), then theoretically, a sufficiently large dog breed might be able to clear its highest point.
+
+In essence, the neighbor overlooked the possibility that the specific house involved in the wager could have been extremely small, allowing the dog to literally jump over it.
+
+","I am fairly confident (0.75) in this answer, considering the implausibility yet technical feasibility of the scenario. Nonetheless, without concrete dimensions of the house and dog, complete certainty eludes us."
+7,C,"You can initially divide 100 by 10 once to get 10. Afterward, you can choose to perform division again on the result of the previous operation (in this case, 10 divided by 10 equals 1). Technically, though, dividing 100 by 10 results in just one quotient value, hence why traditionally it may count as only one mathematical operation.
+
+",I am very confident (0.95) in this solution since mathematics generally considers multi-stage operations as separate instances despite consecutive dependencies among them.
+8,B,"According to the problem, the police already have a list of 200 known criminals. Now they want to search for the remaining ones who account for approximately 10% of the city's population minus those 200 they already know about.
+
+Let's say the total population of the city is P. Then the number of unknown criminals is equal to 0.10*P - 200.
+
+Thus, the number of additional criminals the police can potentially find depends on the actual values of P and the initial 200. Without knowing these figures, providing an exact numerical answer is impossible.
+
+However, since we are asked to select an answer from the given choices, we need to estimate. Given that the police aim to capture the rest of the 10%, i.e., the 80% left after accounting for the 200 named criminals, we can calculate this roughly as follows:
+
+Number of Unknown Criminals / Total Population Percentage = Number of Known Criminals / Total Known Names
+
+Substituting the values given, we get:
+
+80% = X / 200
+
+Where X stands for the estimated number of new criminals the police may encounter. Solving this equation yields X=160, which rounds down to 160/100 = 1.6, indicating around 80%.
+
+","Due to rounding issues and absence of precise population data, I am somewhat uncertain about this estimation. Yet, amongst the provided alternatives, choice B seems closest to reality (0.65)."
+9,B,"Christmas and New Year's Day occur annually on December 25th and January 1st, respectively. Both dates are part of the same calendar year, therefore they always fall on the same year.
+
+",I am absolutely sure (confidence level: 1.0) that my answer is correct because this is a straightforward observation based on fixed annual dates.
+10,B,"Roosters are male chickens and do not possess reproductive capabilities to produce eggs. Only hens, the female counterparts, can lay eggs. Therefore, it makes perfect sense that the farmer never obtained any eggs from his roosters.
+
+","I am completely confident (1.0) in this answer since chicken reproduction biology clearly dictates that only females can lay eggs, rendering the idea of rooster-derived eggs impossible."
+11,A,"Usually, a playground is dedicated to a particular game or activity, especially in this case where multiple types of games have their distinct areas. Assuming that the crowd assembled quickly, leaving little room for movement or redistribution, it's plausible that Mark headed straight toward the football section upon hearing the excitement. He wouldn't necessarily need to hear the announcement naming the individual player if he knew, due to general interest or proximity, that the football field was the source of attention.
+
+","I am reasonably confident (0.7) in this answer, acknowledging that alternative explanations exist depending on factors such as acoustics, visibility, and audience behavior patterns."
+12,C,"Here, we need to think creatively and use lateral thinking skills. The detail stating ""the five men at church"" could lead us astray, but remember, sometimes trick questions contain unexpected twists.
+
+Given the clue ""it started raining while they were outside"", it's easy to imagine the four running individuals getting drenched. However, note the phrase ""but the one that was still"". Typically, funerals take place inside churches, and attendees remain stationary indoors during services. Combined with the strange reference to staying perfectly dry, it becomes evident that the fifth man is deceased and lying in state in his casket inside the church, thus keeping him dry amidst the storm.
+
+","Despite the seemingly mundane nature of the question, I am fairly confident (0.8) in this answer due to the inclusion of subtle hints pointing to the less obvious conclusion."
+13,A,"Context plays a significant role here. Running towards a wild bear in its natural habitat would pose severe danger, prompting fear and self-preservation instincts. However, observing a bear in a controlled environment like a zoo diminishes the risk considerably, explaining her nonchalant attitude. Zoos provide barriers separating visitors from animals, ensuring safety as long as proper guidelines are adhered to.
+
+","I am highly confident (0.95) in this answer, given the likelihood of this scenario occurring within a zoological setting."
+14,B,"Jumping the distance between two separate buildings requires exceptional athletic prowess or assistance, which aren't specified in the question. However, if the two houses shared a connecting wall or were built incredibly close together, the man could easily hop from the roof or porch of one residence to reach the adjacent structure without needing superhuman abilities or external aid.
+
+","I believe the probability of this scenario is quite high, giving me a confidence rating of 0.85."
+15,B,"In this scenario, the attorney states that he does not have a brother, implying that he has no sibling brothers. Meanwhile, the accountant identifies herself as the attorney's sibling. By identifying themselves as a sibling without specifying gender, there's no discrepancy between their testimonials. The term ""brother"" can refer to a fraternity brother, work colleague, or simply a generic masculine term for siblings. However, given the context, it's most probable that the accountant is the attorney's sister, resolving the perceived inconsistency.
+
+","I am fairly confident (0.75) with this assessment. The key element hinges on recognizing that ""brother"" doesn't necessitate having a male sibling, thereby permitting the existence of a sister as well."
+16,A,"The apparent contradiction stems from the assumption that ""brother"" refers exclusively to a male sibling. However, in English, ""brother"" can broadly mean a fellow member of a group, community, or association. Alternatively, it can signify a male sibling. Since the attorney claims not to have a brother, it implies that he has no male siblings. Yet, the accountant introduces herself as his brother, referring to herself as a sibling. This usage accounts for the discrepancy, and choosing option A reconciles the conflicting statements without resorting to deception.
+
+","0.95; the answer draws support from semantic nuances in the English language, narrowing down the viable solutions to A."
+17,C,"The phrase ""two mothers and two daughters"" initially gives the impression of four distinct individuals. However, if we consider three generations—grandmother, mother, and daughter—then there are only three people required for shopping. Three people sharing $21 equitably works out to $7 per person ($21 divided by 3), eliminating the necessity for further subdivision or distribution.
+
+","0.9; this answer relies on correctly interpreting the ambiguous phrase ""two mothers and two daughters."""
+18,C,"""They are all boys,"" presents the simplest and most probable explanation for the scenario posed. Biological sex ratios tend to balance out over time, making it plausible for a couple to have multiple children of the same gender consecutively or almost simultaneously.",0.85
+19,A,"Each set of medicine consists of taking all three pills, spaced thirty minutes apart. After the first dose, sixty more minutes pass before completing the third dose. Over the course of ninety minutes (one and a half hours), the patient consumes all prescribed medication doses.
+
+",1.0; the calculation involves simple arithmetic and an awareness of the sequence outlined in the problem.
+20,A,"The premise of the bet assumes that a house can jump, which is false. Comparing the jumping capability of a dog with the static property of a house sets up the impossibility of the latter party ever winning.
+
+",1.0; the answer derives logically from the definition of a house as an immovable object contrasted with the dynamic actions of a dog.
+21,A,"The possibility of dry feet after a walk around the park lies in the condition of the terrain. Should the pathway prove free from moisture, the student could maintain dry shoes and socks. Additionally, rubber boots ensure extra protection against dampness, increasing the chances of retaining dry feet.
+
+",0.9; this answer presumes rational decision-making on behalf of the participants and favorable environmental conditions.
+22,B,"Roosters, being males, do not lay eggs; they fertilize them. Therefore, the event described in the question couldn't have occurred naturally.
+
+",1.0; the answer rests on established facts concerning avian physiology.
+23,A,"The presence of numerous hungry bears surrounding James suggests a wildlife environment or perhaps a circus, but the clause ""approached me just took a look and left"" points strongly towards a zoo exhibit. Visitors often experience curiosity from animals kept in zoos, who may approach and inspect them briefly before losing interest and moving away.
+
+",0.9; this answer assumes a typical zoo setup and animal behaviors observed therein.
+24,A,"First pill taken immediately + wait 30 minutes -> Second pill taken + wait 30 minutes -> Third pill taken. From the beginning to the end of taking all three pills, 1 hour and 30 minutes elapse.
+
+",1.0 since this is a matter of calculating intervals.
+25,C,"Subtracting 10 from 100 consecutively reduces the larger number by increments of 10. Starting with 100, we can subtract 10 once to arrive at 90, then subtract 10 again to reach 80. Any subsequent attempts beyond the second instance would require starting with a smaller base figure. ",1.0 as the process involves simple arithmetic progression.
+26,A,The two girls answering yes to all questions except being twins suggests they are identical sisters but not twins. Identical triplets meet this criterion. ,0.95 as the answer covers all given conditions.
+27,C,"Options A and B attribute human qualities to Romeo and Juliet, which conflicts with the information provided. Option D offers no alternate explanation. Option C proposes that Romeo and Juliet are fish, an unexpected twist that matches the descriptions of broken glass and water on the floor. Trains generate vibrations strong enough to knock objects off shelves, supporting this theory.
+
+","0.8; while creative, this answer assumes unique interpretations of terms like ""found dead"" and ""bedroom."""
+28,B,"In the absence of the vice coach, leadership usually falls to the captain, who is chosen for their maturity and skill. Coaches manage training sessions and strategies, while captains handle motivational speeches and communication with referees. Team management would deal with administrative tasks but not replace coaches during games.
+",0.9
+29,B,"The only distinguishing characteristic among the characters introduced is their professions. Knowing common stereotypes associated with these professions, the policeman assumed that doctors and lawyers tend not to be called John, and consequently, believed that the shooter was probably the only male present whose profession aligned with the name 'John.'
+
+","0.7; while dependent on stereotyping, this answer reflects common preconceptions linked to professional titles."
+30,A,"Metabolism slows down with age, causing calories to burn slower. Nutritional needs change as well, requiring seniors to consume more vitamins and minerals than youth. Specific diets target age-related problems, adding to caloric consumption.
+
+","0.95, supported by gerontological research."
+31,C,"The statement ""Jack is a fish in the ocean"" presents the most plausible reason for Jack dying shortly after being knocked out of the water. Fish rely on water pressure and oxygen dissolved in it to breathe, so exposure to air causes suffocation.
+
+",0.9; this answer best explains the events described in the question.
+32,C,"Dogs consist of two genders, male and female. Often, the male dog is referred to as the father, and the female dog is called the mother or momma. In this case, the slim dog is the offspring, while the fat dog serves as its mother.
+
+","0.95, as this answer is based on common knowledge about dogs and their gender roles."
+33,C,"Chickens, specifically mature hens, are capable of laying eggs. Young pullets and cockerels (roosters) do not have developed sexual organs necessary for egg production. Moreover, the shape of the barn's triangular top or sides does not factor into the scenario because roosters do not lay eggs.
+
+","0.95, as this answer is based on definitive biological facts about chickens."
+34,C,"Given that five people attended a football match and one remained completely dry despite not seeking shelter during a sudden shower, it is reasonable to conclude that the fifth person was not alive. Statues representing notable former athletes are commonly placed in stadiums and outdoor recreation facilities. Such statues depict realistic poses and clothing consistent with physical activities. Rainwater would flow off a bronze statue without penetrating its surface, leaving it unaffected by precipitation.
+
+","0.9, as this answer is founded on logical reasoning based on information provided in the question and general knowledge of public spaces containing memorial statues."
+35,C,"If there is a grandmother accompanying the mother and daughter, there will be three women in total - meeting the criteria of two mothers and two daughters. Splitting $21 among three people is achievable without requiring any participant to share funds with another.
+
+","0.9, as this answer is derived from logical reasoning and applying general definitions of familial roles."
+36,D,"Selecting 100 names from a phone directory implies obtaining listed telephone numbers only. Therefore, none of the 100 selected individuals would have an unlisted phone number according to the parameters given in the question.
+
+","0.95, as this answer is derived from literal interpretation of the question and basic statistics concepts."
+37,A,"The phrase ""he remained dry"" likely indicates that he was protected from the rain somehow. Among the answer choices, only option A includes explicit protection from the rain, namely a coffin. People attending a funeral service would not expect rain to penetrate a sealed casket, which keeps the corpse dry.
+
+","0.9, as this answer is based on logical reasoning and the least far-fetched explanation compared to the other options."
+38,C,"Divide $40 by 4 (for two kids and two parents) to allocate $10 per person. This allocation strategy applies to families consisting of two kids with two parents, where the kids share the same parents.
+
+","0.95, as this answer is based on standard family structures and simple arithmetic."
+39,C,"Dark colors absorb more light energy, converting it into thermal radiation. Black sheep would retain more warmth than white ones in sunny weather due to solar absorption. Increased internal temperatures reduce appetite, encouraging reduced feed intake.
+
+","0.8, as this answer is backed by scientific principles, but there could be exceptions depending on individual metabolic rates and environmental variables."
+40,B,"Seeing a bear in a safe environment like a zoo would not evoke fear responses as it normally would in the wild. Observing animals in controlled environments minimizes risks and encourages appreciation instead of panic.
+
+","0.95, as this answer is highly probable given the context suggested by the question."
+41,B,"At the moment of prediction, the score is always 0-0. Predicting the score at this stage is trivial and accurate, thus resulting in Tom losing the wager.
+
+","0.9, as this answer is based on logical reasoning and understanding of the question."
+42,A,"At the beginning of a game, the score is always zero for both teams. John's prediction of a 0-0 score is trivially true at the time of the bet, as that is the current state of the game. This is not an extraordinary ability; it is merely stating the obvious.
+
+","0.9, as this answer is based on logical reasoning and understanding of the rules governing the start of a basketball game."
+43,A,"In most organized sports teams, the chain of command consists of the head coach, followed by the assistant coaches (first and possibly second officers), and culminating with the captain. The captain assumes primary responsibility for managing the team in the absence of an assistant captain.
+
+","0.95. This answer is highly probable, considering conventional hierarchical arrangements within sports teams."
+44,B,"Start with 100. Subtract 10 once to obtain 90. Subtract 10 a second time to get 80. Further subtraction is not possible based on the constraints provided.
+
+","1.0, as this is a straightforward math problem."
+45,C,"The phrase ""Half of them are white"" is often interpreted as requesting division by color, but it can also be seen as a rhetorical device emphasizing surprise at finding white sheep in abundance. With eleven sheep, dividing by two leaves a remainder, meaning that not all groups would be equal in size. Ergo, labeling half as white implies that the other half shares this trait, yielding ten whites. Adding the final odd-colored sheep brings the total to eleven.
+
+","0.8, as this interpretation demands careful parsing of language constructs."
+46,C,"Initially, it appears confusing as both the officer and James claim not to have a brother. However, if the officer is actually a woman or James' sister, then there is no discrepancy in their statements.
+
+","0.9, as this answer effectively addresses the puzzle in the question."
+47,C,"Even though males constitute half of the population, in this case, they compose more than half since there are nine children. The simplest explanation is that all nine kids are boys, satisfying the requirement that half of them are male.
+
+","0.95, as this answer is based on solid reasoning and simple arithmetic."
+48,A,"The question asks how it's possible for two boys to have the same parents and birthdate but not be twins. Triplets satisfy this condition, as they share the same birthdate and parents, yet are not twins.
+
+",High (0.9); this answer is directly supported by the information provided in the question.
+49,A,"The question states that only two men wear rubber boots, leaving the third man barefoot. Since the third man's feet remain dry, it implies that the ground itself is dry.
+
+",0.95; this answer is highly likely given the information provided in the question.
+50,A,"At the start of any sports game, including football, the score is always 0-0. Regardless of any special abilities, predicting the initial score is not difficult.
+","0.95
+
+Explanation: John predicted the score would be 0-0, which is guaranteed to be true before the game begins. Tom agreed to the bet, believing John couldn't make such a trivial prediction, but ultimately lost because the initial score is always 0-0."
+51,A,"The cop entered a scene with a dead body and heard the words ""No John, not the gun!"". Immediately afterward, he identified the murderer as the lone male in the room, the mailman. This deduction comes from realizing that neither the doctor nor the lawyer would likely be named John, given traditional naming conventions.
+
+","0.95, as this answer is based on logical deductions drawn from the provided information."
+52,B,"The driver must make five stops, each lasting half an hour. Multiplying the number of stops (5) by the duration of each stop (0.5 hours) equals 2.5 hours.
+
+","1.0, as this is a simple multiplication problem."
+53,A,"Reflection occurs when light hits a smooth surface, creating a mirrored image. Underwater, light is absorbed and reflected differently than in air. Still, enough reflection persists for the fishes to see vague images of themselves and each other, particularly if the tank is transparent and contains minimal obstructions.
+
+","0.9, as this answer is based on established optical properties and typical characteristics of aquariums."
+54,B,"Darker colored surfaces absorb more heat from sunlight than lighter ones. Woolen fleeces come in varying thicknesses and densities, affecting insulating capacities. During warm weather, black sheep might opt for less grazing to prevent excessive warming and preserve energy.
+
+","0.65, as this answer involves educated guesswork regarding animal thermoregulatory behaviors and wool density variations."
+55,A,"The girls admitted to being related, having parents with matching appearances, and sharing the same birthday. These traits apply to triplets, who share the same genetic makeup and birthdate. Being non-identical twins does not exclude them from being triplets or having a third sibling.
+
+","0.9, as this answer thoroughly addresses the given conditions and is grounded in biological and demographic facts."
+56,A,"The question states that only two of the three men are wearing rubber boots, and yet the third man's feet remain dry. One possible explanation is that the ground itself isn't wet, negating the need for protective footwear.
+
+","0.85, as there could be other reasons not detailed in the options (such as the third man carrying the other two on his shoulders). However, based on the provided options, the most likely answer is that the ground is not wet."
+57,B,"The fat dog cannot be the father of the thin dog because it is stated that the fat dog is not the father. In order for the little dog to be the son of the fat dog, the fat dog must be the mother.
+
+",1.0 (highly confident)
+58,B,"The question states that the guards were posted to monitor roads to the north and south, which implies that they are situated in such a manner where they can see each other. Therefore, it is possible for one guard to notice the other smiling.
+
+","0.9 (I am almost certain about this answer, but there is still a slight chance that there may be some missing information.)"
+59,B,"Christmas Day is celebrated on December 25th and New Year's Day is celebrated on January 1st. Both holidays fall within the same Gregorian calendar year, so they always coincide.
+
+","1.0, as this is a factual answer based on the defined dates of the celebrations."
+60,A,"The color of the shirt does not change the stone's color, but rather gets stained by it. A white shirt would not transfer any color to the yellow stone and would remain its original color.
+
+",0.95 (very confident)
+61,B,"The lion is attached to a piece of metal that measures 6m long. If the other end is not fastened or connected to anything, the lion can freely move within the radius of the 6m rope, reaching the human located 7m away diagonally or at an angle.
+
+",1.0 (certain)
+62,B,"Counting the number of legs on the ground would include the bed's four legs and the two legs of the person lying on the bed. The other animals in the room, like dogs, cats, giraffe, cows, goose, and birds, are not included as they have legs off the ground.
+
+","0.95, as this answer is based on a direct interpretation of the question and counting the relevant legs."
+63,B,"If the woman jumped off the balcony but managed to land safely without serious injuries, the most likely scenario is that she fell backward into her apartment. Buildings typically have rooms or open spaces behind the balconies, reducing the impact significantly. Falling 20 stories would still be dangerous, but the severity of damages decreases dramatically if the fall occurs mostly horizontally and the landing surface is soft.
+
+","0.8, as there could be other ways to minimize harm in hypothetical situations, but this seems like the most plausible answer based on physics, architecture, and human tolerance for impacts."
+64,D,"Shaving three times daily would remove any substantial growth of hair, preventing the development of a full beard. Choices A, B, and C do not adequately justify frequent shaving while maintaining a beard.
+
+",0.95 (Very High)
+65,A,"Raw eggs are fragile and susceptible to breaking when subjected to force. By dropping the egg gently, there is a greater chance that the eggshell will not fracture upon contact with the concrete floor due to reduced impact forces.
+
+",0.9 (Highly Likely)
+66,C,"Since there is no source of light in the house, it is impossible for a sighted person to read a regular printed book. However, if the man is blind, he could be reading Braille dots, which do not require light to read.
+
+",0.95 (very confident)
+67,B,"The question states that there has never been a bridge connecting the island to the mainland and the tractor was not transported to the island by boat or by air, nor was it built on the island. This implies that the tractor must have crossed the lake when it was frozen, allowing the tractor to be driven across the ice.
+
+",0.95 (very confident)
+68,C,"Numbers are represented similarly in both languages, so even if Sally wrote her math test in French, the teacher could still comprehend her work. Teachers of English Language Arts and History typically assess content mastery in written prose or essays, which would be challenging to decipher in a foreign tongue. However, Mathematics focuses primarily on symbols and numbers, which transcend linguistic boundaries.
+
+",0.95 (very confident)
+69,A,"The question states that the man returned on Sunday, but the answer options reveal that Sunday refers to the horse's name, not a day of the week. Riding back on Sunday implies riding back using a horse named Sunday, solving the mystery.
+
+",0.95 (very confident)
+70,C,"Throwing the glass ball gently reduces the impact force exerted on collision with the brick wall. Less force applied means a lesser chance of breaking the delicate glass material.
+
+",0.9 (high)
+71,A,"If Lisa is William's niece, she is either William's sister's daughter or William's brother's daughter. Since William isn't married, the only remaining option is Lisa being Emily's daughter. Emily being William's sister ensures that Lisa is William's niece.
+
+","0.95, as the provided answer is the most logical explanation based on the given information."
+72,D,"Firefighters, not police, respond to fires. Police departments do not have personnel assigned to fighting fires.
+
+",1.0 (certain)
+73,C,"The math teacher can understand Sally's test because mathematical symbols and numerals are universal and hold the same meaning irrespective of language. Unlike English or history, math heavily relies on these universally accepted signs, which facilitate comprehension.
+
+",0.95 (very confident)
+74,B,"If the man jumped off the ground floor, he would not suffer injury as gravity would not build momentum sufficient to induce trauma during the short vertical descent.
+
+","0.9, as this answer is based on Newton's laws of motion and gravitational acceleration."
+75,C,"The height difference from the first step to the ground is negligible, so the boy would not gain enough velocity to sustain injury from a short fall.
+
+","0.95, as this answer is based on fundamental physics relating to falling bodies and terminal velocities."
+76,A,"Tidal cycles cause fluctuations in sea levels, leading to periods where coastal waters recede, exposing seafloor and stranding vessels. Eventually, rising tides restore adequate water depth for navigation, lifting boats off the bottom.
+
+","0.95, as this phenomenon is widely documented and understood."
+77,B,"Publishers often release books without writing them personally. They coordinate projects, edit texts, arrange printing, marketing, and sales. Authors contribute the writings, and publishers compile, distribute, and promote the finished products.
+
+","0.95, as this answer is based on industry norms and occupational responsibilities."
+78,B,"Since there are no sources of artificial or natural light in the house, it is impossible for someone with normal vision to read a book. However, if the man is blind, he could be reading braille dots, which do not require light to read.
+
+",0.95 (very confident)
+79,A,"If the station wasn't fixed properly in the marina, it's possible that the boat became loose and drifted away into the ocean due to wind or tidal influences. Over time, the gap between the boat and the dock could increase, eventually pushing the boat further out into deeper waters.
+
+","0.85, as this answer seems plausible given the limited information provided in the question."
+80,D,"Throwing or dropping a raw egg onto a hard surface inevitably breaks it due to the fragility of the shell. This question seems designed to encourage incorrect assumptions, making it impossible to achieve the desired result using any of the provided options.
+
+","1.0, as none of the provided options enable throwing a raw egg against a hard rock wall without breaking it."
+81,A,"Out of all the options, option A seems the most plausible. If the observer looks away and then looks back, everyone disappearing indicates that they have disembarked en masse. In this case, jumping into the sea would be the most likely explanation.
+
+","0.85. This answer is reasonable, but there are limitations to confirming its accuracy, as it depends on the perspective and timing of the observer."
+82,B,"Painting a brown home white or changing a spotlight color does not influence the color of an item thrown into the Red Sea. The color of the shirt remains unchanged by the sea's color, so a white shirt stays white.
+
+","1.0, as the question asks about the color of the shirt, not the effect of the sea on the shirt."
+83,A,"The worker goes to the first coffee shop in the morning and the second one in the evening. Walking downhill conserves energy compared to climbing uphill, especially when doing so twice a day. The question does not specify the distances to work or the effort required to travel there, only the locations of the coffee shops.
+
+","0.75. The answer is plausible, but the question does not fully define the layout of the streets or the topography."
+84,D,"Though the answer options attempt to provide possible explanations, they don't fully address the situation presented in the question. The question asks why the restaurant informed the customer that all tables were booked, even though there were no customers visible later.
+
+One possible explanation is that the restaurant oversold their reservations or double-booked the tables, hoping to accommodate as many guests as possible. Another possibility is that the customer attempted to reserve a table during peak dining hours, and by the time they passed by, the rush had subsided.
+
+Without more context or information, it's difficult to pinpoint a singular reason with absolute certainty.
+
+","0.6. While there are plausible explanations, there is not enough information to definitively answer the question."
+85,B,"If the young man was only on the first step of the 100-feet ladder, the height differential would not generate sufficient force to injure him seriously. Gravity affects objects linearly, so the height decrease significantly mitigates the impact.
+
+","0.95
+
+The answer is highly likely, considering the linear relationship between height and impact force. Medical attention might be sought post-fall due to anxiety or precaution, but it wouldn't prevent injury from a considerable height. Similarly, the height of the ladder isn't inherently harmful; the fall distance determines the potential for injury."
+86,C,"In this question, ""Mary's father has five children..."", it is mentioned that Mary is one of the children. Thus, the fifth child's name is Mary herself.
+
+",1.0 (full confidence)
+87,D,"Law enforcement officials such as police officers typically do not engage in putting out fires, as this task falls under the purview of firefighters.
+
+","0.95. Based on common sense and job responsibilities, law enforcement personnel are not trained or equipped to fight structural fires."
+88,B,"Let x be the number of kilometers the runner completed on the first day. Then, the distances for each day form an arithmetic series with a constant difference of 2 km.
+
+x, (x+2), (x+4), (x+6), (x+8)
+
+Since the sum of these distances over 5 days is 70 km, we can write the equation:
+
+x + (x+2) + (x+4) + (x+6) + (x+8) = 70
+
+Solving for x, we get:
+
+5x + 20 = 70
+5x = 50
+x = 10
+
+Now let's verify our answer using the options provided:
+
+A: Five kilometers → Sum = 15 km (incorrect)
+B: Six kilometers → Sum = 21 km (correct)
+C: Seven kilometers → Sum = 28 km (incorrect)
+
+Therefore, the runner covered six kilometers on the first day.
+
+",0.95 (based on the clear algebraic steps used to solve the problem)
+89,C,"The tractor could not have been brought to the island by boat or plane, nor could it have been constructed on site. Therefore, the only remaining option is that the tractor was driven over the lake when the lake froze during winter.
+
+","0.95, as this answer seems highly probable given the details in the question."
+90,C,"If the fisherman catches three more fish each day than the day before, then the amount of fish caught increases sequentially by threes. Hence, if the total sum of fish caught over five days is 30, and incrementing by three each day, the first day's catch must be three fewer than the fifth day's catch.
+
+Starting backwards from the final day:
+Day 5: 30 - (3\*(5-1)) => 30 - (3\*4) => 30 - 12 => 18
+Day 4: 18 - 3 => 15
+Day 3: 15 - 3 => 12
+Day 2: 12 - 3 => 9
+Day 1: 9 - 3 => 6
+
+On the first day, the fisherman catches 6 fish.
+
+","0.9, assuming the information provided is accurate and reliable."
+91,A,"For Tony's nephew to not be Jack's nephew, there must be a generational shift between them. In other words, Tony's nephew must be Jack's son.
+
+","1.0, as this answer fits the condition provided in the question."
+92,D,"Upon firing the gunshot, the noise would scare off all the birds, causing them to leave the fence simultaneously.
+
+",0.9 (assuming the scenario is possible in practice)
+93,A,"Common scenarios involve employees receiving complimentary meals as part of their compensation package. Working at the restaurant enables the man to enjoy a meal without paying.
+
+","0.9, as this is a common practice in various industries, including restaurants."
+94,C,"If each daughter has one brother and there are five children in total, then all four daughters share the same brother – the only male child.
+
+","1.0, as this is a straightforward application of the information provided in the question."
+95,B,"The question explicitly mentions that there are five organizational heads in the room, so the answer must be five.
+
+","1.0, as this is a direct response to the question based on the information provided."
+96,B,"The phrasing ""again on Sunday"" may seem contradictory, but it can be explained by the man's horse being named Sunday. Therefore, regardless of the day of departure or return, the horse's name remains Sunday.
+
+","0.95, as this answer aligns with the provided information and clarifies the confusion created by the repeated mention of Sunday."
+97,C,"The student chooses the nearest station in the morning, saving himself the trouble of climbing uphill early in the day. Likewise, he picks the farther station in the afternoon, enjoying the downward journey without exhausting himself before returning home.
+
+",0.9 (considering the simplicity of the logic involved and the clarity of the question)
+98,A,"Given that the team comprises five players and only six participants, it follows that one person acts as a coach for all five players. The terminology ""each player has one coach"" can be misleading, as it does not imply exclusivity or uniqueness; rather, it denotes possession or availability.
+
+","0.9, as this answer closely adheres to the provided text and employs a literal interpretation of the phrase ""has one coach."""
+99,B,"For Lisa to be William's niece but not Emily's, there must be a different maternal link between them. This can occur if Emily and William share the same father but have different mothers. Lisa would then be William's niece via his mother's bloodline, while Emily would not be Lisa's aunt.
+
+","0.95, as this solution considers the complex family dynamics and provides a plausible explanation based on available information."
+100,B,"By leaning forward, the student gains better control over his scooter and optimizes his balance, enabling easier downhill descents. Considering that the second station is farther and in the opposite direction, it stands to reason that the stations and his home are indeed situated on a hill, offering the advantage of a smoother, downward glide during the morning and afternoon journeys.
+
+",0.9
+101,C,"Burglars typically cover their faces to prevent identification. Those without facial coverings are more likely suspects for the crime.
+
+","0.9 (high)
+
+This answer choice is more likely because burglars generally try to protect their identity, therefore, the ones not hiding their faces could potentially be the criminals. Of course, this situation depends on additional context, but given the information provided, this answer holds the highest probability."
+102,A,"If the rope is not tied to anything at the other end, the dog can walk along the length of the rope until it reaches the maximum range of 6m, allowing it to access bones within this proximity.
+
+","0.9, as this answer is based on the principle that an untethered rope allows freedom of movement within its length."
+103,C,"Reading in pitch darkness is extremely difficult unless a person has learned the tactile method of reading known as braille, which visually impaired individuals utilize. Since her parents acknowledge her efforts and supply rewards, it becomes evident that they support her academic endeavors despite her visual impairment.
+
+",0.9 (high confidence)
+104,C,"Days of the week do not necessarily dictate the horse's name, but the question specifically mentions that the man rode out of town on Sunday and returned on Sunday. Assuming the horse's name is Sunday, the man could have traveled on Saturday and returned on Saturday, explaining how he returned on Sunday without violating the weekly cycle.
+
+","0.85 (reasonable confidence, considering the trickiness of the question)"
+105,D,"According to the laws of physics, a fall from great heights would produce fatal consequences for pets and humans alike. However, the question fails to consider external factors that could save the pet's life.
+
+For example, the pet might have landed on trees, bushes, or awnings that cushioned its fall. Perhaps someone witnessed the incident and rescued the pet mid-fall. Or maybe the pet survived thanks to some remarkable adaptations that allow animals to survive extreme falls.
+
+In conclusion, while the provided answers do not fit this particular scenario, multiple possibilities exist beyond those listed.
+
+",0.9 (high)
+106,B,"Firing a gun near birds will scare them and cause them to fly away. Even if one bird dies, the others will still scatter and leave the fence, keeping the total count at ten.
+
+","0.9, as this answer is likely correct based on the behavior of birds and the effects of loud sounds."
+107,B,"Preachers conduct marriage ceremonies regularly but remain perpetually unmarried themselves. They perform weddings for couples without entering into matrimony themselves.
+
+","0.95, as this answer is based on common knowledge and the occupation's nature."
+108,C,"The description clearly specifies that Mary's father has five children, which includes Mary herself. The other names mentioned (Nana, None, Nine, and Non) serve as examples of the variety in their naming convention.
+
+","0.95, as this answer aligns closely with the provided information."
+109,B,"The question states that Ana's school has 4 students in Alaska, listing Maria, James, and Jonghyun as three of them. To identify the fourth student, simply refer to the name provided earlier in the sentence: Ana.
+
+",1.0 (complete certainty)
+110,B,"If the woman jumps from the balcony but doesn't suffer severe injuries, it is possible that she fell into her apartment. Usually, a 20-story fall would cause significant damage. However, if she lands on something soft, like carpet, furniture, or a mattress, her injuries could be substantially reduced.
+
+","0.8, as this answer requires assumptions about the interior design and furnishings of the apartment."
+111,A,"Women generally do not grow beards, so shaving frequently would not affect their capacity to develop facial hair. Men, conversely, risk developing razor burn and skin irritation if they shave excessively.
+
+","0.9, as this answer accounts for biological differences between men and women."
+112,A,"Without knowing English, completing an English assignment seems improbable. Translation software or external aid offer practical solutions to overcome language barriers. Students might translate the instructions, seek guidance from bilingual peers, or consult online resources to complete the homework accurately.
+
+","0.85, as alternative methods of completing the assignment appear unlikely without external intervention."
+113,C,"Painting a house or switching a spotlight's color does not alter the intrinsic color of an object. In this case, throwing a white shirt into the Red Sea will not modify its color.
+
+","0.95, as the premises of the question contain irrelevant information meant to distract. The actual answer solely depends on the object's inherent attributes."
+114,A,"The question describes observing a boat full of people, followed by a brief distraction, revealing nobody onboard. Consequently, the only viable explanation is that all passengers jumped into the water during the interval. Other alternatives like hiding or forming relationships aren't feasible or pertinent in this context.
+
+","0.95, as this answer logically corresponds to the given scenario and eliminates implausible options."
+115,C,"To calculate the number of fish caught on the first day, reverse engineer the sequence by working backwards from the last day of fishing. Assume the fisherman caught X fish on the first day. Following this pattern, he would catch X+3 fish on the second day, X+6 fish on the third day, X+9 fish on the fourth day, and finally X+12 fish on the fifth day. The sum of fish caught throughout the tournament totals 30 fish. Mathematically represent the sum of fish caught over five consecutive days as shown below:
+X+(X+3)+(X+6)+(X+9)+(X+12)=30
+To isolate X, rewrite the equation in standard form:
+5X+30=30
+Subtract 30 from both sides to find X:
+5X=0
+Divide both sides by 5 to compute X:
+X=0
+However, catching zero fish on the first day contradicts the assumption that the fisherman catches three more fish each day. Reexamine the data set, focusing on the cumulative count of 30 fish. Notice that the difference between successive counts is increasing by three. Beginning with the lowest valid value for the final count (which is three), derive the preceding values by iteratively subtracting three. After three subtractions, the first day's catch amounts to three fish. Verify this assertion by evaluating the revised equation:
+3+(3+3)+(3+6)+(3+9)+(3+12)=30
+Confirm that this new pattern satisfies the conditions imposed by the question.","0.95, as the analysis demonstrates consistency with the given information and confirms compatibility with underlying patterns."
+116,C,"When the Internet connection is disrupted, users are unable to browse websites or search engines like Google. As a result, if Bob encountered a disconnection, he wouldn't be able to access or query Google.
+
+","0.95, as this answer aligns with common experience and technical realities surrounding Internet usage."
+117,B,"Given the statement, the person in consideration performs wedding ceremonies for several women (""numerous"") without getting married himself. Marriage officiants preside over wedding ceremonies for others without participating in matrimonial bondage themselves.
+
+Considering the available options, a preacher often performs religious ceremonies like weddings and is less likely to marry multiple times himself.",0.9
+118,D,"We can analyze this question by calculating the number of legs contributed by each entity separately. First, consider the bed, which has four legs. Humans have two legs. Animals vary in leg count, but it is unnecessary to calculate individual contributions since the question seeks only the quantity of legs touching the floor.
+
+Counting the number of entities resting on the bed is irrelevant because they do not add any extra legs to the floor. Instead, focus on the bed itself and the person lying on it. The doves flying overhead pose no bearing on the calculation, as they do not interact with the floor.",0.95
+119,C,"The phrase ""She has one brother for each of her daughters"" suggests that the brother belongs jointly to all the sisters. Hence, all four daughters share the same brother, bringing the total number of siblings to five.
+
+","0.9, as this answer is based on interpreting the phrase literally and recognizing shared kinship."

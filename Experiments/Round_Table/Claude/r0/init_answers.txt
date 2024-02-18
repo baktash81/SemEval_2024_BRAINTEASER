@@ -1,0 +1,719 @@
+1. Solution: A. The lazy farmer is his mother.
+
+Reasoning: Since the hardworking farmer is the son of the lazy farmer, but the lazy farmer is not the father, the only possibility is that the lazy farmer is the mother.
+
+Confidence: 0.95
+
+2. Solution: C. Romeo and Juliet are fish. The rumble of the train knocked the tank off the shelf, it broke and Romeo and Juliet did not survive. 
+
+Reasoning: Romeo and Juliet could not be human since the only pieces of furniture were a bookshelf and bed in a rural area. The train likely caused the fish tank to fall and break.  
+
+Confidence: 0.8
+
+3. Solution: C. It happens every year.  
+
+Reasoning: The day before your birthday, you are one year younger than you will be the next day on your birthday. This happens annually.
+
+Confidence: 1.0
+
+4. Solution: B. The captain.
+
+Reasoning: If the assistant captain left, the next in command would be the captain.
+
+Confidence: 0.9  
+
+5. Solution: C. Five people.
+
+Reasoning: 5% of 100 random names picked would be 5 people with unlisted numbers.
+
+Confidence: 1.0
+
+6. Solution: A. Although the guards were looking in opposite directions, they were not back to back. They were facing each other.
+
+Reasoning: For one guard to see the other smiling, they must have been facing towards each other, not back-to-back.  
+
+Confidence: 0.95
+
+7. Solution: A. A house can not jump. 
+
+Reasoning: The man bet his dog could jump higher than a house, which cannot physically jump, ensuring his dog would win.
+
+Confidence: 0.9
+
+8. Solution: B. Once.  
+
+Reasoning: 100 divided by 10 is 10. You can only divide 100 by 10 one time.  
+
+Confidence: 1.0
+
+9. Solution: A. Twenty people.
+
+Reasoning: 10% of 200 is 20. So with a list of 200 names already captured, 20 more can be found wandering the city.  
+
+Confidence: 1.0
+
+10. Solution: D. None of above.
+
+Reasoning: Christmas Day and New Year's Day cannot fall on the same day. They are always in different weeks/years.  
+
+Confidence: 1.0
+
+11. Solution: B. Because roosters don't lay eggs.  
+
+Reasoning: Roosters are male chickens and do not lay eggs, only hens (female chickens) lay eggs. So despite feeding his roosters daily, no eggs were produced since roosters cannot physically lay eggs.
+
+Confidence: 1.0
+
+12. Solution: A. Since the playground was a football playground and the other players could've not been playing in the playground at the time of the announcement.  
+
+Reasoning: If it was a football-specific playground, then a football player would likely be the one drawing a lot of attention and seen as a great player there. The other sports people may not have even been allowed or present in that area.
+
+Confidence: 0.8
+
+13. Solution: C. He was in a coffin the other men were at his funeral.
+
+Reasoning: If the man was in a coffin at his own funeral, he would remain dry while the others running got wet in the rain. This explains why only he stayed dry.  
+
+Confidence: 0.9
+
+14. Solution: A. She was at the zoo.  
+
+Reasoning: Being excited rather than afraid of a bear indicates she was likely at a zoo, where bears would be in enclosures and not pose a threat.
+
+Confidence: 0.95
+
+15. Solution: B. Two houses were wall-to-wall next to each other  
+
+Reasoning: If the houses were right next to each other, he could step/jump from one house to the other rather than a long jumping feat.
+
+Confidence: 0.9
+
+16. Solution: B. The accountant was his sister.
+
+Reasoning: If the accountant is the attorney's sister, it explains how she could testify being his brother while the attorney truthfully states not having a brother.  
+
+Confidence: 0.95
+
+17. Solution: A. The accountant was his sister.
+
+Reasoning: If the accountant is the attorney's sister, it explains how she could claim being his brother while the attorney truthfully does not have an actual brother.
+
+Confidence: 0.95
+
+18. Solution: C. They are one daughters, one mother and one grandmother.
+
+Reasoning: If the shopping group consists of 1 daughter, 1 mother (her daughter), and 1 grandmother (the mother's mother), that accounts for the 2 mothers and 2 daughters stated. 
+
+Confidence: 0.9  
+
+19. Solution: C. They are all boys.
+
+Reasoning: If all 9 children are boys, then the half that are boys would be 9/2 = 4.5 rounded to 5 boys.
+
+Confidence: 1.0
+
+20. Solution: B. Two hours.
+
+Reasoning: If told to take the 3 medicines every half hour, and there are 3 medicines, that equates to taking them every half hour over a 2 hour period (1.5 hours + extra half hour) before running out.
+
+Confidence: 1.0
+
+21. Solution: A. A house can not jump.
+
+Reasoning: The man bet his dog could jump higher than a house, but a house cannot physically jump, ensuring the dog would win.  
+
+Confidence: 0.95
+
+22. Solution: C. By walking on stilts, the one elevates his feet above the wet ground.  
+
+Reasoning: If the person was on stilts, their feet would be raised up and avoid getting wet from puddles. 
+
+Confidence: 0.9
+
+23. Solution: B. It didn't because rosters don't lay eggs.
+
+Reasoning: Roosters are male chickens and do not lay eggs, so the rooster could not have laid an egg on the roof.
+
+Confidence: 1.0
+
+24. Solution: A. James was at the zoo.   
+
+Reasoning: If James was at the zoo, the bears would be securely in enclosures and only observe him before moving on.
+
+Confidence: 0.95
+
+25. Solution: C. Two hours.
+
+Reasoning: With 3 pills taken every half hour, that covers a 2 hour period before running out. 
+
+Confidence: 1.0
+
+26. Solution: A. Once.   
+
+Reasoning: 100 divided by 10 is 10. You can only subtract 10 from 100 one time.
+
+Confidence: 1.0 
+
+27. Solution: A. They were triplets.  
+
+Reasoning: Triplets can have very similar appearances and genetics while still having their own unique identity. This would allow the girls to truthfully answer yes to seeming like twins but actually be triplets.
+
+Confidence: 0.85
+
+28. Solution: C. Romeo and Juliet are fish. The rumble of the train knocked the tank off the shelf, it broke and Romeo and Juliet did not survive.
+
+Reasoning: It is unlikely two humans were in such an empty house near the train tracks. More reasonable that fish tank broke during train rumbling.   
+
+Confidence: 0.9
+
+29. Solution: A. The coach.  
+
+Reasoning: If the assistant coach cannot attend, the head coach would lead the team.
+
+Confidence: 0.95
+
+30. Solution: C. The mail man was the only male. The doctor and lawyer were females.  
+
+Reasoning: This would explain how the officer deduced "John" refered to the mail man specifically.  
+
+Confidence: 0.7
+
+31. Solution: B. Older people require increased nutrient intake to support overall health and well-being.  
+
+Reasoning: Older adults generally need more nutrients due to natural physiological changes that come with aging.
+
+Confidence: 0.9
+
+32. Solution: C. Jack is a fish in the ocean. 
+
+Reasoning: If Jack was a fish, being knocked from the ocean water onto land could lead to his death within minutes.  
+
+Confidence: 0.85
+
+33. Solution: C. The fat dog is the mother.
+
+Reasoning: If the fat dog is the mother of the slim dog, it explains how one is parent to the other but not the father specifically.
+
+Confidence: 0.95  
+
+34. Solution: C. It didn't because rosters don't lay eggs.
+
+Reasoning: Roosters do not lay eggs, so the rooster could not have laid an egg on the barn roof.   
+
+Confidence: 1.0
+
+35. Solution: C. He was a photograph the other people were there to honor a former player.   
+
+Reasoning: If the dry man was being honored, the others rushing to shelter suggests he was a statue/photograph.   
+
+Confidence: 0.8
+
+36. Solution: C. They are one daughters, one mother and one grandmother.  
+
+Reasoning: This family combination equals 2 mothers and 2 daughters to split the money.
+
+Confidence: 0.95
+
+37. Solution: B. Five people.  
+
+Reasoning: 5% of 100 is 5 people expected to have unlisted numbers.
+
+Confidence: 1.0
+
+38. Solution: A. He was in a coffin the other men were at his funeral.  
+
+Reasoning: A dead man in a coffin would stay dry while others running got wet.
+
+Confidence: 0.95
+
+39. Solution: C. Jack and Tom are brothers who share the same parents.   
+
+Reasoning: If brothers with common parents, it would be them and their 2 parents total splitting the $40.
+
+Confidence: 0.85
+
+40. Solution: C. Black absorbs more heat from sunlight, black sheep may eat less to avoid overheating or to regulate their body temperature.
+
+Reasoning: The color difference provides a logical reason for differing food consumption.  
+
+Confidence: 0.9
+
+41. Solution: B. She was at the zoo.  
+
+Reasoning: Being excited rather than scared of the bear suggests she was likely at the zoo where bears would be safely in enclosures.
+
+Confidence: 0.95
+
+42. Solution: B. John said the score would be 0-0 and he was right. "Before" any football game starts, the score is always 0-0.  
+
+Reasoning: Before a game begins the score is 0-0, so John made an easy correct prediction.  
+
+Confidence: 0.9
+
+43. Solution: A. John said the score would be 0-0 and he was right. "Before" any basketball game starts, the score is always 0-0.
+
+Reasoning: The score is always 0-0 before tipoff, making it an easy correct prediction.
+
+Confidence: 0.95
+
+44. Solution: A. The captain.  
+
+Reasoning: If the assistant captain left, the team captain would take over leadership.
+
+Confidence: 0.95
+
+45. Solution: C. Once.   
+
+Reasoning: You can only subtract 10 from 100 one time, the result would then be 90.  
+
+Confidence: 1.0
+
+46. Solution: C. They are all white.  
+
+Reasoning: If all 11 sheep are white, then half of them (11/2 = 5.5) would also be white.
+
+Confidence: 1.0  
+
+47. Solution: C. Officer was actually his sister so the whole story makes sense  
+
+Reasoning: If the officer is James's sister, it explains how she says she has no brother while James has no sister.  
+
+Confidence: 0.9
+
+48. Solution: C. They are all boys.
+
+Reasoning: If all 9 children are boys, then half of 9 (4.5 rounded) is 5 boys.  
+
+Confidence: 1.0
+
+49. Solution: A. They were triplets.   
+
+Reasoning: Triplets can share similar genetics and appearances yet have distinct identities. This would allow the truthful answers.
+
+Confidence: 0.85
+
+50. Solution: A. The ground is not wet.  
+
+Reasoning: If the ground itself was not wet, then no need for special boots to keep feet dry.
+
+Confidence: 0.9
+
+51. Solution: A. John said the score would be 0-0 and he was right. "Before" any football game starts, the score is always 0-0.  
+
+Reasoning: Before a game starts, the score is always 0-0, making it an easy correct prediction.
+
+Confidence: 0.95
+
+52. Solution: A. The mail man was the only male. The doctor and lawyer were females, so the cop knew that "John" was the mail man.
+
+Reasoning: This explains how the officer deduced the identity of "John" based on gender.  
+
+Confidence: 0.8  
+
+53. Solution: C. Two hours.
+
+Reasoning: Stopping 5 times every half hour totals 2 hours (1.5 hours plus an extra half hour).  
+
+Confidence: 1.0
+
+54. Solution: B. The fish tank was like a ring.
+
+Reasoning: If the tank was a ring/circle shape, the fish could see each other going opposite ways.  
+
+Confidence: 0.85
+
+55. Solution: B. Black absorbs more heat from sunlight, black sheep may eat less to avoid overheating or to regulate their body temperature.  
+
+Reasoning: The color difference provides a logical reason for differing food intake.
+
+Confidence: 0.9
+
+56. Solution: A. They were triplets.   
+
+Reasoning: Triplets can share very similar genetics and appearance while having distinct identities.
+
+Confidence: 0.85
+
+57. Solution: A. The ground is not wet.  
+
+Reasoning: If the ground was dry, there'd be no need for special boots to keep feet dry.
+
+Confidence: 0.9
+
+58. Solution: B. The fat dog is the mother. 
+
+Reasoning: If the fat dog is the slim dog's mother, it explains the parental relationship.  
+
+Confidence: 0.95
+
+59. Solution: B. Although the guards were looking in opposite directions, they were not back to back. They were facing each other.
+
+Reasoning: Facing each other allows seeing the other smiling despite looking opposite ways.  
+
+Confidence: 0.95 
+
+60. Solution: D. None of above.   
+
+Reasoning: Christmas and New Years never fall on the exact same day.
+
+Confidence: 1.0
+
+61. Solution: C. If a white shirt is put on a yellow stone that is wet, it will become yellow. 
+
+Reasoning: The yellow color from the stone will transfer onto the white shirt, making the shirt yellow.
+
+Confidence: 0.9
+
+62. Solution: B. The other end of the metal rope is not tied down. 
+
+Reasoning: If the other end is untied, the lion has 6m of movement from the tied end, allowing it to reach 7m.
+
+Confidence: 0.8
+
+63. Solution: B. There are only 6 legs - the 4 legs of the bed and your 2 legs.
+
+Reasoning: The animals listed are imaginary, so only real legs on the ground are the bed's and yours. 
+
+Confidence: 0.95
+
+64. Solution: B. The woman fell back into her apartment from the balcony.
+
+Reasoning: This is the only plausible explanation based on the physics and logic of the situation.
+
+Confidence: 0.7
+
+65. Solution: B. A barber can shave others while maintaining their own beard.
+
+Reasoning: A barber shaving customers throughout the day can keep their own beard.
+
+Confidence: 0.9
+
+66. Solution: C. The egg bounces off the hard concrete floor instead of cracking.
+
+Reasoning: Concrete is too hard for an egg to crack on when dropped.
+
+Confidence: 0.85
+
+67. Solution: C. The man is blind and reading braille. 
+
+Reasoning: This explains how he read with no light sources.
+
+Confidence: 0.9
+
+68. Solution: B. The tractor was driven over the frozen lake in winter.
+
+Reasoning: This is the only plausible explanation for how it reached the island.
+
+Confidence: 0.9
+
+69. Solution: C. The math teacher understood the French test since numbers are universal.
+
+Reasoning: Numbers are the same in all languages, so only the math test made sense.
+
+Confidence: 0.95
+
+70. Solution: A. The man's horse was named Sunday.
+
+Reasoning: This explains how he could ride out of town on Friday and return on Sunday, since Sunday refers to his horse rather than the day.  
+
+Confidence: 0.9
+
+71. Solution: C. You need to throw the glass ball gently against the sturdy brick wall. 
+
+Reasoning: If thrown gently, the sturdy brick wall will not shatter the fragile glass ball. Throwing hard would likely break it.
+
+Confidence: 0.8
+
+72. Solution: B. Emily is adopted, so she is not William's biological sister.
+
+Reasoning: This explains why Lisa is William's niece but not Emily's, even though they are siblings.
+
+Confidence: 0.85
+
+73. Solution: B. The one with important papers.
+
+Reasoning: The police would prioritize putting out the fire in the room with crucial documents.
+
+Confidence: 0.9 
+
+74. Solution: C. The math teacher understood the French test since numbers are universal.  
+
+Reasoning: Numbers are identical across languages, so the math test made sense.
+
+Confidence: 0.95
+
+75. Solution: B. He jumped off the ground floor, not the top of the building.
+
+Reasoning: Jumping from the ground level explains how he was unharmed. 
+
+Confidence: 0.9
+
+76. Solution: C. He was only on the first step of the ladder.  
+
+Reasoning: Being only on the first step explains how he was unhurt from the fall.
+
+Confidence: 0.95
+
+77. Solution: A. The tide makes the boats float again when it comes in.
+
+Reasoning: Low tide stranded the boats, and high tide will refloat them.
+
+Confidence: 0.85
+
+78. Solution: B. A publisher authors books without writing them.
+
+Reasoning: Publishers put out books written by other authors.
+
+Confidence: 0.9
+
+79. Solution: B. The man is blind and reading braille.
+
+Reasoning: This explains how he read with no light sources present. 
+
+Confidence: 0.9
+
+80. Solution: B. The dolphins untied the knots securing the boat.
+
+Reasoning: This explains how the boat ended up drifting into the ocean after being tied up.
+
+Confidence: 0.7
+
+81. Solution: A. You need to drop the egg gently against the rock wall.
+
+Reasoning: A gentle throw is less likely to break the egg than a hard throw against the hard surface.  
+
+Confidence: 0.85
+
+82. Solution: C. All the people on the boat are just hidden from view for the moment. 
+
+Reasoning: They did not suddenly disappear, but are merely out of sight briefly.
+
+Confidence: 0.9
+
+83. Solution: C. The shirt would turn red in the Red Sea.
+
+Reasoning: The color would transfer from the sea water to the white shirt.
+
+Confidence: 0.95
+
+84. Solution: A. The coffee shops and home are at different elevations, allowing easy walks.
+
+Reasoning: The slope makes the walks easy in each direction.
+
+Confidence: 0.8
+
+85. Solution: B. The restaurant is large enough for all the customers to be hidden from view.  
+
+Reasoning: The customers are still there, just not visible at the moment.
+
+Confidence: 0.7
+
+86. Solution: B. The boy was only on the first step of the ladder.   
+
+Reasoning: Being only on the first step explains how he was unhurt. 
+
+Confidence: 0.95
+
+87. Solution: C. Mary is the fifth child.
+
+Reasoning: The riddle gives the names of four children, so the fifth one must be Mary.
+
+Confidence: 0.9
+
+88. Solution: B. The police put out the fire in the room with important papers first.
+
+Reasoning: Important documents would take priority over money or jewels. 
+
+Confidence: 0.85
+
+89. Solution: A. The runner ran 5 km on the first day.  
+
+Reasoning: He ran 2 more km each day, so if he ran 70 km total over 5 days, he must have run 5 km to start.
+
+Confidence: 0.9
+
+90. Solution: C. The tractor was driven over the frozen lake in the winter. 
+
+Reasoning: This is the only plausible explanation for how it reached the island.
+
+Confidence: 0.8
+
+91. Solution: B. The fisherman caught 1 fish on the first day.
+
+Reasoning: He caught 3 more each day, so if he caught 30 over 5 days, he must have started with 1 on day 1.
+
+Confidence: 0.95
+
+92. Solution: B. Jack is adopted, so he is not Tony's biological brother.  
+
+Reasoning: This explains how Tony's nephew is not also Jack's nephew.
+
+Confidence: 0.9
+
+93. Solution: C. Nine birds remain after shooting one of the ten.
+
+Reasoning: Ten minus one shot leaves nine birds remaining. 
+
+Confidence: 0.99 
+
+94. Solution: A. He works at the restaurant, so he eats there for free.
+
+Reasoning: Working there allows him to eat without paying.
+
+Confidence: 0.9
+
+95. Solution: C. Each daughter shares the same brother.  
+
+Reasoning: This explains how there are 4 daughters and 1 brother but only 5 children.
+
+Confidence: 0.85
+
+96. Solution: C. There is only one head in the room - their own. 
+
+Reasoning: The heads of the organization are not separate people.
+
+Confidence: 0.95
+
+97. Solution: B. The man's horse was named Sunday.  
+
+Reasoning: This explains how he left and returned on Sunday - it referred to his horse.
+
+Confidence: 0.8
+
+98. Solution: C. The stations and home are at different elevations, allowing easy scooter rides.
+
+Reasoning: The slope makes the rides easy in each direction. 
+
+Confidence: 0.9
+
+99. Solution: A. Each player shares the same coach.
+
+Reasoning: This explains how there are 5 players and 5 coaches but only 6 total.
+
+Confidence: 0.85
+
+100. Solution: A. Emily is adopted, so she is not William's biological sister.
+
+Reasoning: This explains why Lisa is William's niece but not Emily's niece.
+
+Confidence: 0.9
+
+101. Solution: B. The stations and home are at different elevations, allowing easy scooter rides.
+
+Reasoning: The slope makes the rides easy downhill in each direction.
+
+Confidence: 0.9
+
+102. Solution: C. The firemen arrested the two without masks. 
+
+Reasoning: The masked individuals were likely the burglars, so the unmasked ones were arrested.
+
+Confidence: 0.85
+
+103. Solution: A. The other end of the rope is not tied down.
+
+Reasoning: An untied end gives the dog 6m of movement to reach the bone 7m away.
+
+Confidence: 0.95
+
+104. Solution: C. Jessica is blind and reads braille, so she can read in the dark.
+
+Reasoning: Being blind explains how she reads with no light. 
+
+Confidence: 0.9
+
+105. Solution: C. The man's horse was named Sunday.
+
+Reasoning: This explains how he left and returned on Sunday.
+
+Confidence: 0.8
+
+106. Solution: C. The dog fell back into the apartment rather than over the edge. 
+
+Reasoning: This is the only plausible explanation for the dog being unharmed.
+
+Confidence: 0.7
+
+107. Solution: A. Nine birds remain after shooting one of ten. 
+
+Reasoning: Ten minus one is nine left.
+
+Confidence: 0.99
+
+108. Solution: B. A preacher marries people but does not get married himself.
+
+Reasoning: This explains how he marries others without being married.
+
+Confidence: 0.95
+
+109. Solution: C. Mary is the fifth child.  
+
+Reasoning: The riddle gives the names of four children, so the fifth is Mary.
+
+Confidence: 0.9
+
+110. Solution: B. Ana must be the fourth student.
+
+Reasoning: The other three students are named, so Ana is the fourth.
+
+Confidence: 0.85
+
+111. Solution: B. The woman fell back into her apartment rather than over the edge.
+
+Reasoning: This is the only plausible way she could have survived the fall.
+
+Confidence: 0.8
+
+112. Solution: B. A barber can shave others while maintaining their own beard. 
+
+Reasoning: Barbers shave customers but keep their own beard. 
+
+Confidence: 0.95
+
+113. Solution: C. The students guessed the homework answers based on prior knowledge.
+
+Reasoning: Since they didn't know English, guessing using their existing knowledge is the only plausible explanation.
+
+Confidence: 0.7
+
+114. Solution: B. The white shirt would turn red in the Red Sea.
+
+Reasoning: The red color from the sea would transfer onto the shirt.
+
+Confidence: 0.9
+
+115. Solution: B. The boat is large enough for the people to be hidden briefly.
+
+Reasoning: The people are still there, just temporarily out of sight. 
+
+Confidence: 0.85
+
+116. Solution: B. The fisherman caught 1 fish on the first day.
+
+Reasoning: He caught 3 more each day, so if 30 total over 5 days, he must have started with 1. 
+
+Confidence: 0.95
+
+117. Solution: C. Without internet, he couldn't search Google.
+
+Reasoning: Google requires an internet connection to be accessible.
+
+Confidence: 0.99
+
+118. Solution: B. A preacher marries people but does not get married. 
+
+Reasoning: This explains marrying others without being married himself.
+
+Confidence: 0.9
+
+119. Solution: B. Only the bed's 4 legs and your 2 legs are on the floor. 
+
+Reasoning: The animals listed are imaginary, so only real legs are counted.
+
+Confidence: 0.95
+
+120. Solution: C. Each daughter shares the same brother.   
+
+Reasoning: This explains how there are 4 daughters and 1 brother but only 5 kids total.
+
+Confidence: 0.85

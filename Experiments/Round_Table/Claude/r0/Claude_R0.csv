@@ -1,0 +1,121 @@
+,Solution,Reasoning,Confidence
+0,A,"Since the hardworking farmer is the son of the lazy farmer, but the lazy farmer is not the father, the only possibility is that the lazy farmer is the mother.",0.95
+1,C,Romeo and Juliet could not be human since the only pieces of furniture were a bookshelf and bed in a rural area. The train likely caused the fish tank to fall and break.  ,0.8
+2,C,"The day before your birthday, you are one year younger than you will be the next day on your birthday. This happens annually.",1.0
+3,B,"If the assistant captain left, the next in command would be the captain.",0.9  
+4,C,5% of 100 random names picked would be 5 people with unlisted numbers.,1.0
+5,A,"For one guard to see the other smiling, they must have been facing towards each other, not back-to-back.  ",0.95
+6,A,"The man bet his dog could jump higher than a house, which cannot physically jump, ensuring his dog would win.",0.9
+7,B,100 divided by 10 is 10. You can only divide 100 by 10 one time.  ,1.0
+8,A,"10% of 200 is 20. So with a list of 200 names already captured, 20 more can be found wandering the city.  ",1.0
+9,D,Christmas Day and New Year's Day cannot fall on the same day. They are always in different weeks/years.  ,1.0
+10,B,"Roosters are male chickens and do not lay eggs, only hens (female chickens) lay eggs. So despite feeding his roosters daily, no eggs were produced since roosters cannot physically lay eggs.",1.0
+11,A,"If it was a football-specific playground, then a football player would likely be the one drawing a lot of attention and seen as a great player there. The other sports people may not have even been allowed or present in that area.",0.8
+12,C,"If the man was in a coffin at his own funeral, he would remain dry while the others running got wet in the rain. This explains why only he stayed dry.  ",0.9
+13,A,"Being excited rather than afraid of a bear indicates she was likely at a zoo, where bears would be in enclosures and not pose a threat.",0.95
+14,B,"If the houses were right next to each other, he could step/jump from one house to the other rather than a long jumping feat.",0.9
+15,B,"If the accountant is the attorney's sister, it explains how she could testify being his brother while the attorney truthfully states not having a brother.  ",0.95
+16,A,"If the accountant is the attorney's sister, it explains how she could claim being his brother while the attorney truthfully does not have an actual brother.",0.95
+17,C,"If the shopping group consists of 1 daughter, 1 mother (her daughter), and 1 grandmother (the mother's mother), that accounts for the 2 mothers and 2 daughters stated. ",0.9  
+18,C,"If all 9 children are boys, then the half that are boys would be 9/2 = 4.5 rounded to 5 boys.",1.0
+19,B,"If told to take the 3 medicines every half hour, and there are 3 medicines, that equates to taking them every half hour over a 2 hour period (1.5 hours + extra half hour) before running out.",1.0
+20,A,"The man bet his dog could jump higher than a house, but a house cannot physically jump, ensuring the dog would win.  ",0.95
+21,C,"If the person was on stilts, their feet would be raised up and avoid getting wet from puddles. ",0.9
+22,B,"Roosters are male chickens and do not lay eggs, so the rooster could not have laid an egg on the roof.",1.0
+23,A,"If James was at the zoo, the bears would be securely in enclosures and only observe him before moving on.",0.95
+24,C,"With 3 pills taken every half hour, that covers a 2 hour period before running out. ",1.0
+25,A,100 divided by 10 is 10. You can only subtract 10 from 100 one time.,1.0 
+26,A,Triplets can have very similar appearances and genetics while still having their own unique identity. This would allow the girls to truthfully answer yes to seeming like twins but actually be triplets.,0.85
+27,C,It is unlikely two humans were in such an empty house near the train tracks. More reasonable that fish tank broke during train rumbling.   ,0.9
+28,A,"If the assistant coach cannot attend, the head coach would lead the team.",0.95
+29,C,"This would explain how the officer deduced ""John"" refered to the mail man specifically.  ",0.7
+30,B,Older adults generally need more nutrients due to natural physiological changes that come with aging.,0.9
+31,C,"If Jack was a fish, being knocked from the ocean water onto land could lead to his death within minutes.  ",0.85
+32,C,"If the fat dog is the mother of the slim dog, it explains how one is parent to the other but not the father specifically.",0.95  
+33,C,"Roosters do not lay eggs, so the rooster could not have laid an egg on the barn roof.   ",1.0
+34,C,"If the dry man was being honored, the others rushing to shelter suggests he was a statue/photograph.   ",0.8
+35,C,This family combination equals 2 mothers and 2 daughters to split the money.,0.95
+36,B,5% of 100 is 5 people expected to have unlisted numbers.,1.0
+37,A,A dead man in a coffin would stay dry while others running got wet.,0.95
+38,C,"If brothers with common parents, it would be them and their 2 parents total splitting the $40.",0.85
+39,C,The color difference provides a logical reason for differing food consumption.  ,0.9
+40,B,Being excited rather than scared of the bear suggests she was likely at the zoo where bears would be safely in enclosures.,0.95
+41,B,"Before a game begins the score is 0-0, so John made an easy correct prediction.  ",0.9
+42,A,"The score is always 0-0 before tipoff, making it an easy correct prediction.",0.95
+43,A,"If the assistant captain left, the team captain would take over leadership.",0.95
+44,C,"You can only subtract 10 from 100 one time, the result would then be 90.  ",1.0
+45,C,"If all 11 sheep are white, then half of them (11/2 = 5.5) would also be white.",1.0  
+46,C,"If the officer is James's sister, it explains how she says she has no brother while James has no sister.  ",0.9
+47,C,"If all 9 children are boys, then half of 9 (4.5 rounded) is 5 boys.  ",1.0
+48,A,Triplets can share similar genetics and appearances yet have distinct identities. This would allow the truthful answers.,0.85
+49,A,"If the ground itself was not wet, then no need for special boots to keep feet dry.",0.9
+50,A,"Before a game starts, the score is always 0-0, making it an easy correct prediction.",0.95
+51,A,"This explains how the officer deduced the identity of ""John"" based on gender.  ",0.8  
+52,C,Stopping 5 times every half hour totals 2 hours (1.5 hours plus an extra half hour).  ,1.0
+53,B,"If the tank was a ring/circle shape, the fish could see each other going opposite ways.  ",0.85
+54,B,The color difference provides a logical reason for differing food intake.,0.9
+55,A,Triplets can share very similar genetics and appearance while having distinct identities.,0.85
+56,A,"If the ground was dry, there'd be no need for special boots to keep feet dry.",0.9
+57,B,"If the fat dog is the slim dog's mother, it explains the parental relationship.  ",0.95
+58,B,Facing each other allows seeing the other smiling despite looking opposite ways.  ,0.95 
+59,D,Christmas and New Years never fall on the exact same day.,1.0
+60,C,"The yellow color from the stone will transfer onto the white shirt, making the shirt yellow.",0.9
+61,B,"If the other end is untied, the lion has 6m of movement from the tied end, allowing it to reach 7m.",0.8
+62,B,"The animals listed are imaginary, so only real legs on the ground are the bed's and yours. ",0.95
+63,B,This is the only plausible explanation based on the physics and logic of the situation.,0.7
+64,B,A barber shaving customers throughout the day can keep their own beard.,0.9
+65,C,Concrete is too hard for an egg to crack on when dropped.,0.85
+66,C,This explains how he read with no light sources.,0.9
+67,B,This is the only plausible explanation for how it reached the island.,0.9
+68,C,"Numbers are the same in all languages, so only the math test made sense.",0.95
+69,A,"This explains how he could ride out of town on Friday and return on Sunday, since Sunday refers to his horse rather than the day.  ",0.9
+70,C,"If thrown gently, the sturdy brick wall will not shatter the fragile glass ball. Throwing hard would likely break it.",0.8
+71,B,"This explains why Lisa is William's niece but not Emily's, even though they are siblings.",0.85
+72,B,The police would prioritize putting out the fire in the room with crucial documents.,0.9 
+73,C,"Numbers are identical across languages, so the math test made sense.",0.95
+74,B,Jumping from the ground level explains how he was unharmed. ,0.9
+75,C,Being only on the first step explains how he was unhurt from the fall.,0.95
+76,A,"Low tide stranded the boats, and high tide will refloat them.",0.85
+77,B,Publishers put out books written by other authors.,0.9
+78,B,This explains how he read with no light sources present. ,0.9
+79,B,This explains how the boat ended up drifting into the ocean after being tied up.,0.7
+80,A,A gentle throw is less likely to break the egg than a hard throw against the hard surface.  ,0.85
+81,C,"They did not suddenly disappear, but are merely out of sight briefly.",0.9
+82,C,The color would transfer from the sea water to the white shirt.,0.95
+83,A,The slope makes the walks easy in each direction.,0.8
+84,B,"The customers are still there, just not visible at the moment.",0.7
+85,B,Being only on the first step explains how he was unhurt. ,0.95
+86,C,"The riddle gives the names of four children, so the fifth one must be Mary.",0.9
+87,B,Important documents would take priority over money or jewels. ,0.85
+88,A,"He ran 2 more km each day, so if he ran 70 km total over 5 days, he must have run 5 km to start.",0.9
+89,C,This is the only plausible explanation for how it reached the island.,0.8
+90,B,"He caught 3 more each day, so if he caught 30 over 5 days, he must have started with 1 on day 1.",0.95
+91,B,This explains how Tony's nephew is not also Jack's nephew.,0.9
+92,C,Ten minus one shot leaves nine birds remaining. ,0.99 
+93,A,Working there allows him to eat without paying.,0.9
+94,C,This explains how there are 4 daughters and 1 brother but only 5 children.,0.85
+95,C,The heads of the organization are not separate people.,0.95
+96,B,This explains how he left and returned on Sunday - it referred to his horse.,0.8
+97,C,The slope makes the rides easy in each direction. ,0.9
+98,A,This explains how there are 5 players and 5 coaches but only 6 total.,0.85
+99,A,This explains why Lisa is William's niece but not Emily's niece.,0.9
+100,B,The slope makes the rides easy downhill in each direction.,0.9
+101,C,"The masked individuals were likely the burglars, so the unmasked ones were arrested.",0.85
+102,A,An untied end gives the dog 6m of movement to reach the bone 7m away.,0.95
+103,C,Being blind explains how she reads with no light. ,0.9
+104,C,This explains how he left and returned on Sunday.,0.8
+105,C,This is the only plausible explanation for the dog being unharmed.,0.7
+106,A,Ten minus one is nine left.,0.99
+107,B,This explains how he marries others without being married.,0.95
+108,C,"The riddle gives the names of four children, so the fifth is Mary.",0.9
+109,B,"The other three students are named, so Ana is the fourth.",0.85
+110,B,This is the only plausible way she could have survived the fall.,0.8
+111,B,Barbers shave customers but keep their own beard. ,0.95
+112,C,"Since they didn't know English, guessing using their existing knowledge is the only plausible explanation.",0.7
+113,B,The red color from the sea would transfer onto the shirt.,0.9
+114,B,"The people are still there, just temporarily out of sight. ",0.85
+115,B,"He caught 3 more each day, so if 30 total over 5 days, he must have started with 1. ",0.95
+116,C,Google requires an internet connection to be accessible.,0.99
+117,B,This explains marrying others without being married himself.,0.9
+118,B,"The animals listed are imaginary, so only real legs are counted.",0.95
+119,C,This explains how there are 4 daughters and 1 brother but only 5 kids total.,0.85

@@ -1,0 +1,121 @@
+,Solution,Reasoning,Confidence
+0,A,"The unusual relationship between the hardworking farmer and the lazy farmer can be explained by the fact that the lazy farmer is the mother of the hardworking farmer. This conclusion is drawn from the given information that the lazy farmer is not the father of the hardworking farmer but is still related to him. Therefore, the lazy farmer must be the mother.",1.0
+1,C,"Given the presence of glass shards and water on the floor, it suggests that Romeo and Juliet are likely fish, not humans. The passing train might have caused vibrations leading to the tank's fall and subsequently their demise.",1.0
+2,C,"Before someone's birthday, they are always one year younger than they will be the next day, which happens every year, not just in specific instances like leap years or the first year of graduation.",1.0
+3,B,"If a crucial assistant captain departs, the primary captain typically assumes greater responsibility, including leading the team as the primary captain.",1.0
+4,C,"If 5% of the population has an unlisted phone number, then picking 100 names at random from the city's phone directory would likely yield around 5 people with unlisted phone numbers.",1.0
+5,A,"The guards were likely facing each other, allowing one to see the other's facial expression, hence the ability to notice the smile.",1.0
+6,A,"The man won the bet because a house cannot physically jump, making it impossible for the neighbor to win.",1.0
+7,B,"After dividing 100 by 10 once, the result is 10. Further division by 10 would not yield a whole number.",1.0
+8,A,"If the police have a list of 200 names and approximately 10% of the city's population are criminals, they can find 20 criminals from the list.",1.0
+9,B,"Christmas and New Year's Day occur annually on December 25th and January 1st, respectively, falling on the same year every year.",1.0
+10,B,"Roosters are male chickens and do not possess the biological capability to lay eggs. Only hens, the female chickens, are capable of laying eggs. Therefore, despite the conscientious farmer providing food for his roosters every day, no eggs were produced because roosters cannot lay eggs.",1.0
+11,A,"Given that the playground was likely dedicated to football and the announcement drew excitement, it's reasonable to assume that a football player would be the one garnering attention. Mark, being at the football playground, would naturally gravitate towards the football player for a photo.",0.9
+12,C,"The man stayed dry because he was in a coffin at his own funeral. While the other men ran and got wet in the rain, he remained dry due to being inside the coffin.",1.0
+13,A,"If the woman spotted a bear in a zoo, she would not be afraid because the bear would be safely contained within its enclosure. Hence, she ran toward it excitedly.",0.95
+14,B,"If the houses were wall-to-wall or very close together, the man could easily jump from one house to the other, thereby winning the bet without needing any exceptional athletic ability.",0.9
+15,B,"The apparent contradiction arises from the ambiguity of the term ""brother."" While the attorney claims not to have a brother, he may be referring specifically to a male sibling. However, the accountant, who identifies as the attorney's sibling, may be his sister. This resolves the inconsistency without either party lying.",0.95
+16,A,"The conflict arises from the ambiguity of the term ""brother."" While the attorney claims not to have a brother, he may be referring specifically to a male sibling. However, the accountant, who identifies as the attorney's sibling, may be his sister. This interpretation reconciles both statements without anyone lying.",0.95
+17,C,"The scenario can be resolved if the group consists of one daughter, one mother (who is also a daughter), and one grandmother. This configuration accounts for two mothers and two daughters, and splitting $21 equally among them means each receives $7.",0.95
+18,C,"If the man has nine children, and half of them are boys, it's possible that all nine children are boys, resulting in four and a half boys, which rounds up to five boys. Thus, it's possible for all the children to be boys.",0.95
+19,B,"If the patient takes three medicines every half hour, the medication will last for two hours (3 doses x 30 minutes each = 90 minutes). Therefore, the drugs will keep the patient going for two hours.",0.95
+20,A,"The bet was based on a play on words; a house cannot physically jump. Therefore, the man won the bet because the neighbor misunderstood the premise.",0.95
+21,C,"By walking on stilts, the person can keep their feet elevated above the wet ground, thus preventing them from getting wet during the stroll.",0.95
+22,B,"Roosters are male chickens and do not possess the biological capability to lay eggs. Therefore, it's not possible for a rooster to lay an egg on the roof.",0.95
+23,A,"If James was surrounded by bears but they did not attack him, it suggests that he was likely at a place where bears are not a threat, such as a zoo.",0.95
+24,C,"With three pills taken every half hour, the medication will last for two hours before running out.",0.95
+25,C,"The question asks how many times you can deduct 10 from 100. Deducting 10 once from 100 leaves you with 90. Deducting 10 again leaves you with 80. Further deductions would result in negative numbers, not whole numbers. Therefore, you can deduct 10 from 100 twice.",1.0
+26,A,"The girls could be triplets, sharing the same family, parents, and birth date but not being twins. This scenario aligns with the statements given in the question.",1.0
+27,C,"Romeo and Juliet are fish, and the rumble of the train caused their tank to fall off the shelf and break, leading to their death.",0.9
+28,A,"If the vice coach is unable to attend a game, the responsibility of leading the team would typically fall back to the head coach.",0.95
+29,C,"If Jack is a fish swimming in the ocean, being knocked out of the water could lead to his death due to suffocation.",0.9
+30,A,"As people age, they may encounter specific health issues or changes in metabolism that necessitate adjustments in their diet. Therefore, older people may consume more food to meet their nutritional needs.",0.9
+31,C,"If the fat dog is the mother of the slim dog, it explains their relationship. The statement about the fat dog not being the thin dog's father doesn't affect this conclusion.",1.0
+32,C,"Roosters do not lay eggs, so the scenario presented in the question is not possible.",1.0
+33,C,"The person who remained dry was likely a statue or photograph, as the others rushed to take cover from the rain. Statues or photographs do not get wet in the rain.",0.9
+34,A,"The man staying dry despite the rain suggests he was not affected by it, indicating that he might have been in a sheltered or protected environment. Being in a coffin at a funeral would provide such protection, unlike the others who fled and got wet.",0.95
+35,C,"If there is a grandmother among the group, consisting of two mothers and two daughters, then there are three generations present. In this case, the division of $21 equally among them is possible.",1.0
+36,B,"If 5% of the city's population has unlisted phone numbers, and you randomly select 100 names, then approximately 5 out of those 100 people would have unlisted phone numbers.",1.0
+37,A,"The phrase ""he remained dry"" suggests that the man was protected from the rain. Being in a coffin at a funeral would provide such protection, unlike the others who fled and got wet.",0.95
+38,C,"If Jack and Tom are brothers, they share the same parents, and thus, the division of $40 among themselves (Jack, Tom, and their parents) is valid.",1.0
+39,C,"Black absorbs more heat from sunlight compared to white. Therefore, black sheep may consume less food to regulate their body temperature, especially in hot environments.",0.9
+40,B,Seeing a bear in a safe environment like a zoo would not evoke fear responses as it normally would in the wild. Observing animals in controlled environments minimizes risks and encourages appreciation instead of panic.,0.95
+41,B,"At the moment of prediction, the score is always 0-0. Predicting the score at this stage is trivial and accurate, thus resulting in Tom losing the wager.",0.9
+42,A,"At the beginning of a basketball game, the score is always zero for both teams. John's prediction of a 0-0 score is technically correct at the time of the bet, leading to Tom losing the bet.",1.0
+43,A,"If the assistant captain resigns, the responsibility of leading the team would typically fall back to the captain.",1.0
+44,B,"Initially, you can subtract 10 from 100 once to get 90. Then, you can subtract 10 again to get 80. Further subtraction is not possible while maintaining a positive result.",1.0
+45,A,"If one sheep is regarded as both white and another color simultaneously, it would fulfill the condition of having half of the sheep be white while still having 11 sheep.",1.0
+46,C,"If the officer is actually James's sister, then the statement ""I don't have a brother anymore"" makes sense because James didn't have a brother.",1.0
+47,C,"If all nine children are boys, then half of them (9/2 = 4.5) would also be boys.",1.0
+48,A,Triplets can share similar genetics and appearances yet have distinct identities. This would allow the truthful answers.,0.9
+49,A,"If the ground itself was not wet, then there's no need for special boots to keep feet dry.",1.0
+50,A,"Before a game starts, the score is always 0-0, making it an easy correct prediction.",1.0
+51,A,"The cop likely deduced that ""John"" referred to the only male present, the mailman, as the doctor and lawyer were females.",1.0
+52,C,Stopping 5 times every half hour totals 2 hours (1.5 hours plus an extra half hour).,1.0
+53,B,"If the tank was a ring/circle shape, the fish could see each other going opposite ways.",0.85
+54,B,"Black absorbs more heat from sunlight compared to white. Therefore, black sheep may consume less food to regulate their body temperature, especially in hot environments.",1.0
+55,A,"The girls being triplets explains how they can have the same appearance, share the same birthday, and have parents who look alike without being identical twins.",0.95
+56,A,"If the third man's feet remain dry despite only two of them wearing rubber boots, it suggests that the ground is not wet, so there's no need for him to wear boots or use stilts.",0.95
+57,B,"The fat dog cannot be the father of the thin dog because it is stated that the fat dog is not the father. In order for the little dog to be the son of the fat dog, the fat dog must be the mother.",1.0
+58,B,"If the guards were facing each other, one could easily observe the other smiling, even if they were stationed to watch in opposite directions.",0.95
+59,D,Christmas Day and New Year's Day fall in the same year every year; it's not restricted to any particular pattern or timing.,1.0
+60,A,"When you put a white shirt on a yellow stone, the shirt remains white because the stone's color does not affect the color of the shirt.",0.9
+61,B,"If one end of the rope is tied to the lion and the other end is not secured, the lion can reach the human who is 7m away by moving freely with the untied end of the rope.",1.0
+62,B,"Only the legs on the ground should be counted. Since the animals are on the bed and the doves are fluttering above the bed, they are not on the ground. Therefore, the answer is the legs of the bed and your legs.",1.0
+63,B,"The woman did not fall off the building but rather fell back into her apartment from the balcony, thus avoiding the 20-story fall.",1.0
+64,B,A barber shaving customers throughout the day can keep their own beard.,0.9
+65,C,"Concrete floors are indeed hard and resistant to cracking, so dropping a raw egg onto one is unlikely to crack it.",0.95
+66,C,"The man could read his book in the dark because it was daytime, and there was natural light coming into the house.",0.95
+67,B,"During winter, when the lake is frozen, vehicles can cross the ice to reach the island.",0.95
+68,C,The math teacher could understand Sally's work because numbers are universal and do not change between languages.,0.95
+69,A,"The man's horse was named Sunday, so when he rode out of town on Friday and returned on Sunday, it refers to riding back on his horse, not the day of the week.",0.95
+70,C,"Tossing the glass ball gently reduces the force of impact against the sturdy brick wall, minimizing the risk of shattering.",0.95
+71,A,"Lisa is Emily's daughter, making her William's niece but not Emily's niece, since William isn't married.",0.95
+72,B,"Firefighters, not police, respond to fires. Police departments do not have personnel assigned to fighting fires.",0.95
+73,C,The math teacher could understand Sally's work because mathematical concepts and calculations remain consistent regardless of the language used.,0.95
+74,B,"If the man jumped off the ground floor, he would not suffer injury as gravity would not build momentum sufficient to induce trauma during the short vertical descent.",0.95
+75,C,"Falling off the first step of a ladder, which is just a small height from the ground, would not cause any significant harm to the boy. Therefore, he did not get hurt from the fall.",1.0
+76,A,"The boats are likely grounded due to low tide, but when the tide rises, the boats float again, allowing the villagers to use them. This phenomenon is common in coastal areas with tidal fluctuations.",1.0
+77,B,"A publisher is the person responsible for producing and distributing books written by various authors. While the author writes the content, the publisher manages the publication process. Therefore, a publisher can author countless books without writing a single word themselves.",1.0
+78,B,"If the man in the house had no light source available and yet was reading a book, he must be blind and reading braille. This allows him to read without relying on visual light.",1.0
+79,A,"If the station to which the boat was tied was not properly fixed in the marina, it could have drifted away into the ocean, taking the boat with it.",0.9
+80,D,"None of the provided options adequately explain how a raw egg could be thrown against a hard rock wall without breaking. This question appears to be designed to prompt incorrect assumptions, as there is no plausible scenario where the egg wouldn't break upon impact with a hard surface.",1.0
+81,A,"It's unlikely that all the people on the boat would suddenly jump into the sea at the same time. Likewise, the boat being so big that everyone could hide is improbable. Option C about relationships doesn't logically explain the disappearance. Option A, people jumping into the sea, seems the most plausible explanation.",0.9
+82,B,"The color of the shirt remains unchanged by the sea's color, so a white shirt stays white. The other options are not logical or relevant to the question.",1.0
+83,A,"The coffee shops and the worker's home being on a slope would make it easier for him to walk downhill to each coffee shop, both in the morning and evening, reducing the effort required for his daily routine.",0.8
+84,D,"None of the options provided adequately explain why the restaurant would claim all tables were booked when there were no customers visible later. The situation may involve factors like overbooking, timing, or a misunderstanding.",0.8
+85,B,"The young man fell off a 100-foot ladder, but he was unharmed. This suggests that he was only on the first step of the ladder, which is just a small height from the ground, and therefore, the fall wouldn't cause any significant harm.",1.0
+86,C,"The question states, ""Mary's father has five children,"" implying that Mary is one of the children. Therefore, the fifth child's name is Mary.",1.0
+87,B,"Law enforcement officials like policemen typically do not engage in putting out fires; instead, this task falls under the responsibility of firefighters. Therefore, the answer is that none of the above options is correct.",0.95
+88,A,"If the professional runner ran a total of 70 kilometers over 5 days and increased his distance by 2 kilometers each day, he must have run 5 kilometers on the first day.",0.9
+89,C,"The tractor could have been driven over the lake during winter when the lake was frozen, providing a pathway for the tractor to reach the island without being carried by boat or constructed on-site.",0.9
+90,B,"If the fisherman caught 30 fish over 5 days and caught three more fish each day than the day before, he must have caught one fish on the first day.",1.0
+91,C,"Tony and Jack could share the same father but have different mothers, making Tony's nephew not Jack's nephew.",1.0
+92,D,"The question does not specify whether the shot bird remained on the fence or flew away, so none of the above options can be determined from the given information.",0.8
+93,A,"If the man works at the restaurant, he may receive complimentary meals as part of his compensation package, allowing him to eat without paying.",0.9
+94,C,"Each daughter shares the same brother, who is the only male child among Mrs. Jones's children.",1.0
+95,B,"The question refers to ""heads"" as organizational leaders, not actual physical heads. Therefore, there are five organizational heads in the room.",1.0
+96,B,"The man's horse is named Sunday, explaining how he left and returned on Sunday.",1.0
+97,C,"The stations and his home are on a hill, allowing easy downhill rides on his scooter.",1.0
+98,A,"Each player shares the same coach, explaining the total of six participants.",1.0
+99,B,"Emily and William share the same father but not the same mother, explaining Lisa's relationship to William but not Emily.",1.0
+100,B,"The stations and his home are on a hill, facilitating easy downhill rides on his scooter.",1.0
+101,B,"Burglars typically cover their faces, so the firemen would arrest the two without masks.",1.0
+102,A,"If the rope isn't tied to anything, the dog can move freely within its length.",1.0
+103,C,"Jessica is blind and reads using braille, explaining why she reads in complete darkness.",1.0
+104,C,"The man's horse is named Sunday, explaining how he left and returned on Sunday.",1.0
+105,C,"The pet dog fell back into the apartment, possibly onto a lower balcony or ledge.",1.0
+106,B,"Firing a gun near birds will startle them, causing them all to fly away.",1.0
+107,B,A preacher can marry others through wedding ceremonies but may not have been married personally. This aligns with the statement that he has married many women but has never been married himself.  ,1.0
+108,C,"The question states that Mary's father is the father of five children, including Mary. Therefore, Mary must be one of the five children.  ",1.0
+109,B,"The question states that Ana's school has four students in Alaska, listing only three names. Therefore, Ana must be the fourth student.  ",1.0
+110,B,"The woman falling back into her apartment explains how she could avoid serious injury from a 20-story fall, as she would only fall the height of one story.  ",1.0
+111,B,A barber shaves others but can still grow a beard themselves.  ,1.0
+112,A,"Since the homework was accidentally printed in English and the students hadn't learned English yet, they likely used translation tools or sought assistance from external sources to complete their assignments.  ",0.95
+113,C,"Painting a house or changing a spotlight's color doesn't change the intrinsic color of an object. Therefore, throwing a white shirt into the Red Sea wouldn't change its color.  ",1.0
+114,A,The people on the boat likely jumped into the sea during the brief interval when the observer glanced away.  ,1.0
+115,B,"If the fisherman caught 30 fish in total over 5 days, starting with 1 fish on the first day and catching 3 more each day, the first day's catch must have been 1 fish.  ",1.0
+116,C,"Bob couldn't find anything on Google because his internet was disconnected, preventing him from accessing Google.  ",1.0
+117,B,"A preacher can marry others through wedding ceremonies but may not have been married personally, explaining how he has married numerous women but has never been married himself.  ",1.0
+118,B,Only the bed's legs and the person's legs count towards the total number of legs on the floor. The animals and flying doves do not contribute legs on the floor.  ,1.0
+119,C,"If Mrs. Jones has one brother for each of her daughters, then all four daughters share the same brother, making a total of five kids.  ",1.0

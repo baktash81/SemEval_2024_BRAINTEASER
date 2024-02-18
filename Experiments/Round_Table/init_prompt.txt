@@ -1,0 +1,15 @@
+Please answer the questions with step-by-step reasoning. Also,
+
+the convincing samples demonstrate how
+
+evaluate your confidence level (between 0.0 and 1.0) to indicate the
+
+possibility of your answer being right. Please give the answer of each question in this template:
+
+Solution:
+
+Reasoning:
+
+Confidence:
+
+these are Questions:
